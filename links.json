@@ -1,0 +1,3070 @@
+[
+  {
+    "title": "Cypress Pagination Challenge",
+    "link": "https://glebbahmutov.com/blog/cypress-pagination-challenge/"
+  },
+  {
+    "title": "Using Test Ids To Pick Cypress Specs To Run",
+    "link": "https://glebbahmutov.com/blog/using-test-ids-to-pick-specs-to-run/"
+  },
+  {
+    "title": "10 Years Of Blogging",
+    "link": "https://glebbahmutov.com/blog/10-years-of-blogging/"
+  },
+  {
+    "title": "Electric Heat Pumps",
+    "link": "https://glebbahmutov.com/blog/electric-heat-pumps/"
+  },
+  {
+    "title": "Upload Your Images To Cypress Cloud",
+    "link": "https://glebbahmutov.com/blog/upload-your-images-to-cypress-cloud/"
+  },
+  {
+    "title": "Use Async Await In Cypress Specs",
+    "link": "https://glebbahmutov.com/blog/use-async-await-in-cypress-specs/"
+  },
+  {
+    "title": "How Cypress Component Testing Was Born",
+    "link": "https://glebbahmutov.com/blog/how-cypress-component-testing-was-born/"
+  },
+  {
+    "title": "Shrink The Time Gap",
+    "link": "https://glebbahmutov.com/blog/shrink-the-time-gap/"
+  },
+  {
+    "title": "CSP Testing Using Cypress",
+    "link": "https://glebbahmutov.com/blog/csp-testing-using-cypress/"
+  },
+  {
+    "title": "Testing React Number Format Component Example",
+    "link": "https://glebbahmutov.com/blog/test-react-number-format/"
+  },
+  {
+    "title": "Trying Lighthouse",
+    "link": "https://glebbahmutov.com/blog/trying-lighthouse/"
+  },
+  {
+    "title": "The Test Automation Experience Interview",
+    "link": "https://glebbahmutov.com/blog/test-automation-experience-interview/"
+  },
+  {
+    "title": "Cypress Component Testing Vs RTL and Jest",
+    "link": "https://glebbahmutov.com/blog/cypress-component-testing-vs-rtl-jest/"
+  },
+  {
+    "title": "Use GitHub Pull Request Title To Name Cypress Dashboard Run",
+    "link": "https://glebbahmutov.com/blog/pull-request-title/"
+  },
+  {
+    "title": "Close A Random Popup Using MutationObserver",
+    "link": "https://glebbahmutov.com/blog/close-popup/"
+  },
+  {
+    "title": "Use Required Test Tags Instead Of Skipping Tests",
+    "link": "https://glebbahmutov.com/blog/required-tags-instead-of-skipped-tests/"
+  },
+  {
+    "title": "Cypress London August 2023 Workshop",
+    "link": "https://glebbahmutov.com/blog/cypress-london-workshop/"
+  },
+  {
+    "title": "Test With A Different Item Every Day",
+    "link": "https://glebbahmutov.com/blog/test-a-different-item-every-day/"
+  },
+  {
+    "title": "Cypress And Twilio",
+    "link": "https://glebbahmutov.com/blog/cypress-twilio/"
+  },
+  {
+    "title": "Do Not Use SHA To Compare HTML During E2E Tests",
+    "link": "https://glebbahmutov.com/blog/do-not-use-sha/"
+  },
+  {
+    "title": "Cypress GitHub Actions Slash Command",
+    "link": "https://glebbahmutov.com/blog/cypress-slash-command/"
+  },
+  {
+    "title": "Cypress TodoMVC Questions Answered",
+    "link": "https://glebbahmutov.com/blog/cypress-todomvc-questions/"
+  },
+  {
+    "title": "Simplify Cypress Calendar Test Example",
+    "link": "https://glebbahmutov.com/blog/simplify-calendar-test/"
+  },
+  {
+    "title": "Run And Trigger GitHub Workflow",
+    "link": "https://glebbahmutov.com/blog/run-and-trigger-github-workflow/"
+  },
+  {
+    "title": "Pass Values Between Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/pass-values-between-tests/"
+  },
+  {
+    "title": "Testing Cloudscape Design Select Component",
+    "link": "https://glebbahmutov.com/blog/cloudscape-select/"
+  },
+  {
+    "title": "Testing The Swag Store Cypress.io Course",
+    "link": "https://glebbahmutov.com/blog/testing-the-swag-store-course/"
+  },
+  {
+    "title": "Trying Node.js Test Runner",
+    "link": "https://glebbahmutov.com/blog/trying-node-test-runner/"
+  },
+  {
+    "title": "Full Code Coverage For Free",
+    "link": "https://glebbahmutov.com/blog/full-cy-code-coverage/"
+  },
+  {
+    "title": "Fix For Cypress Plugin Events",
+    "link": "https://glebbahmutov.com/blog/fix-for-cypress-plugin-events/"
+  },
+  {
+    "title": "Cypress Level Up Online Workshop April 2023",
+    "link": "https://glebbahmutov.com/blog/cypress-level-up-workshop/"
+  },
+  {
+    "title": "Retry Or Not",
+    "link": "https://glebbahmutov.com/blog/retry-or-not/"
+  },
+  {
+    "title": "Upgrade Cypress From Version 9 to Version 12",
+    "link": "https://glebbahmutov.com/blog/upgrade-cypress-v9-to-v12/"
+  },
+  {
+    "title": "Your Testing Questions Answered",
+    "link": "https://glebbahmutov.com/blog/testing-q-and-a/"
+  },
+  {
+    "title": "Minimize Mailosaur Use",
+    "link": "https://glebbahmutov.com/blog/minimize-mailosaur-use/"
+  },
+  {
+    "title": "Trigger Selected Cypress Specs Using GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/trigger-cypress-specs/"
+  },
+  {
+    "title": "Split React Native Web Component Tests For Free",
+    "link": "https://glebbahmutov.com/blog/split-react-native-component-tests/"
+  },
+  {
+    "title": "Crawl Weather Using Cypress",
+    "link": "https://glebbahmutov.com/blog/crawl-weather/"
+  },
+  {
+    "title": "Test Child Window Closed Scenario",
+    "link": "https://glebbahmutov.com/blog/child-window-closed/"
+  },
+  {
+    "title": "Debug Cypress Commands cy.get And cy.contains",
+    "link": "https://glebbahmutov.com/blog/debug-cy-get-and-contains/"
+  },
+  {
+    "title": "The Zen Of Cypress Data Setup",
+    "link": "https://glebbahmutov.com/blog/setup-cypress-data/"
+  },
+  {
+    "title": "Two Simple Tricks To Make Your Cypress Tests Better",
+    "link": "https://glebbahmutov.com/blog/two-cypress-tricks/"
+  },
+  {
+    "title": "React Native Web Component Testing Using Cypress And Vite",
+    "link": "https://glebbahmutov.com/blog/react-native-web-component-testing/"
+  },
+  {
+    "title": "Trying ArrowJS",
+    "link": "https://glebbahmutov.com/blog/trying-arrow-js/"
+  },
+  {
+    "title": "Cypress CSRF Form Testing",
+    "link": "https://glebbahmutov.com/blog/csrf-testing/"
+  },
+  {
+    "title": "The Battle of Cypress Mochawesome Reporters",
+    "link": "https://glebbahmutov.com/blog/the-awesome-battle/"
+  },
+  {
+    "title": "Stub The Unstubbable",
+    "link": "https://glebbahmutov.com/blog/stub-location/"
+  },
+  {
+    "title": "Cypress Mochawesome HTML Reports",
+    "link": "https://glebbahmutov.com/blog/cypress-mochawesome/"
+  },
+  {
+    "title": "Run Cypress Specs In Parallel For Free",
+    "link": "https://glebbahmutov.com/blog/cypress-parallel-free/"
+  },
+  {
+    "title": "Required Tags",
+    "link": "https://glebbahmutov.com/blog/required-tags/"
+  },
+  {
+    "title": "Test HTML Tables Using cy.table Query Command",
+    "link": "https://glebbahmutov.com/blog/cy-table/"
+  },
+  {
+    "title": "A Better Cypress Log Command",
+    "link": "https://glebbahmutov.com/blog/better-cypress-log/"
+  },
+  {
+    "title": "How To Load Cypress Settings Per Environment",
+    "link": "https://glebbahmutov.com/blog/load-cypress-env-settings/"
+  },
+  {
+    "title": "Use Cypress Task To Avoid Cypress Env Variable",
+    "link": "https://glebbahmutov.com/blog/cypress-env-variable/"
+  },
+  {
+    "title": "Selling Online Courses",
+    "link": "https://glebbahmutov.com/blog/selling-online-courses/"
+  },
+  {
+    "title": "Run Changed Traced Specs On GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/trace-changed-specs/"
+  },
+  {
+    "title": "Cypress Needs Soft Assertions",
+    "link": "https://glebbahmutov.com/blog/cypress-soft-assertions/"
+  },
+  {
+    "title": "Run Just The Failed Tests In Cypress",
+    "link": "https://glebbahmutov.com/blog/run-failed-tests/"
+  },
+  {
+    "title": "Testing Email Flow Using Cypress and Mailosaur",
+    "link": "https://glebbahmutov.com/blog/cypress-mailosaur/"
+  },
+  {
+    "title": "Cypress V12 Is A Big Deal",
+    "link": "https://glebbahmutov.com/blog/cypress-v12/"
+  },
+  {
+    "title": "Skip Before Each Hook",
+    "link": "https://glebbahmutov.com/blog/skip-before-each-hook/"
+  },
+  {
+    "title": "Test A Slow-Loading jQuery Plugin",
+    "link": "https://glebbahmutov.com/blog/slow-loading-jquery-plugin/"
+  },
+  {
+    "title": "Test Polyfills",
+    "link": "https://glebbahmutov.com/blog/test-polyfills/"
+  },
+  {
+    "title": "How To Inject Environment Variables Into Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/inject-env/"
+  },
+  {
+    "title": "Spy On Clipboard Copy Method Call",
+    "link": "https://glebbahmutov.com/blog/spy-on-clipboard-copy/"
+  },
+  {
+    "title": "Spy On window.postMessage Calls",
+    "link": "https://glebbahmutov.com/blog/spy-on-postmessage/"
+  },
+  {
+    "title": "Tips And Tricks For Writing Fast And Maintainable Front-End Tests",
+    "link": "https://glebbahmutov.com/blog/tips-and-tricks-for-e2e/"
+  },
+  {
+    "title": "Mock process.env In Your Cypress React Tests",
+    "link": "https://glebbahmutov.com/blog/mock-process-env-in-react/"
+  },
+  {
+    "title": "Playing With DevExtreme Text Input",
+    "link": "https://glebbahmutov.com/blog/text-input/"
+  },
+  {
+    "title": "Cypress DevExtreme Example",
+    "link": "https://glebbahmutov.com/blog/cypress-devextreme-example/"
+  },
+  {
+    "title": "Check Redux Store Using cy-spok",
+    "link": "https://glebbahmutov.com/blog/spok-redux/"
+  },
+  {
+    "title": "Split A Test.Bash 2022 Test",
+    "link": "https://glebbahmutov.com/blog/split-test/"
+  },
+  {
+    "title": "Solving Test.Bash 2022 UI Challenge With Cypress",
+    "link": "https://glebbahmutov.com/blog/test-bash-2022-ui-challenge/"
+  },
+  {
+    "title": "Run Cypress Tests Using WebKit Browser",
+    "link": "https://glebbahmutov.com/blog/cypress-webkit/"
+  },
+  {
+    "title": "Change E2E Tests From UI To API To App Actions",
+    "link": "https://glebbahmutov.com/blog/ui-to-api-to-app-actions/"
+  },
+  {
+    "title": "Writing Tests That Depend On Other Tests",
+    "link": "https://glebbahmutov.com/blog/dependent-test/"
+  },
+  {
+    "title": "Cypress Component Testing vs Angular Test Harness",
+    "link": "https://glebbahmutov.com/blog/cypress-component-testing-vs-angular-test-harness/"
+  },
+  {
+    "title": "Conditional Commands For Cypress",
+    "link": "https://glebbahmutov.com/blog/cypress-if/"
+  },
+  {
+    "title": "Caching Cypress On CircleCI",
+    "link": "https://glebbahmutov.com/blog/cypress-circleci-subfolders/"
+  },
+  {
+    "title": "You Should Test More Using APIs",
+    "link": "https://glebbahmutov.com/blog/test-using-apis/"
+  },
+  {
+    "title": "Test PDFs By Converting Them To HTML",
+    "link": "https://glebbahmutov.com/blog/cypress-pdf/"
+  },
+  {
+    "title": "Adding Dark Theme to Cypress.Tips Site",
+    "link": "https://glebbahmutov.com/blog/dark-cypress-tips/"
+  },
+  {
+    "title": "Emulate Media In Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/cypress-emulate-media/"
+  },
+  {
+    "title": "Convert Cypress Specs from JavaScript to TypeScript",
+    "link": "https://glebbahmutov.com/blog/cypress-js-to-ts/"
+  },
+  {
+    "title": "Cypress Cannot Add Out-Of-Band Commands",
+    "link": "https://glebbahmutov.com/blog/cypress-out-of-band/"
+  },
+  {
+    "title": "Component Code Coverage in Cypress v10",
+    "link": "https://glebbahmutov.com/blog/component-code-coverage/"
+  },
+  {
+    "title": "Periodically Update A Branch",
+    "link": "https://glebbahmutov.com/blog/update-branch/"
+  },
+  {
+    "title": "Stub an import from a Cypress v10 component test",
+    "link": "https://glebbahmutov.com/blog/stub-react-import/"
+  },
+  {
+    "title": "Stub The Form That Opens The Second Browser Tab",
+    "link": "https://glebbahmutov.com/blog/stub-form-that-opens-2nd-tab/"
+  },
+  {
+    "title": "Sinon Edge Cases",
+    "link": "https://glebbahmutov.com/blog/sinon-edge/"
+  },
+  {
+    "title": "Cypress v10 Environment Variables",
+    "link": "https://glebbahmutov.com/blog/cypress-v10-env/"
+  },
+  {
+    "title": "Cypress v10 Tips and Tricks",
+    "link": "https://glebbahmutov.com/blog/cypress-v10-tips/"
+  },
+  {
+    "title": "Test App From Another Repo",
+    "link": "https://glebbahmutov.com/blog/test-app/"
+  },
+  {
+    "title": "Run All Specs in Cypress v10",
+    "link": "https://glebbahmutov.com/blog/run-all-specs-cypress-v10/"
+  },
+  {
+    "title": "How We Run The Mobile Web Browser Tests at Mercari US",
+    "link": "https://glebbahmutov.com/blog/mobile-tests/"
+  },
+  {
+    "title": "Pass The Reference",
+    "link": "https://glebbahmutov.com/blog/pass-reference/"
+  },
+  {
+    "title": "Check More Things Before Clicking",
+    "link": "https://glebbahmutov.com/blog/check-more-things/"
+  },
+  {
+    "title": "Set All Cypress Env Values Using A Single GitHub Actions Secret",
+    "link": "https://glebbahmutov.com/blog/secrets-to-env/"
+  },
+  {
+    "title": "A Quick React Component Test",
+    "link": "https://glebbahmutov.com/blog/quick-click/"
+  },
+  {
+    "title": "Spy On A Complex Method Call",
+    "link": "https://glebbahmutov.com/blog/spy-on-complex-method-call/"
+  },
+  {
+    "title": "Send Data From The Application To The Cypress Test",
+    "link": "https://glebbahmutov.com/blog/send-data-to-the-test/"
+  },
+  {
+    "title": "Log in Using Collected Words",
+    "link": "https://glebbahmutov.com/blog/login-words/"
+  },
+  {
+    "title": "Listen To The Message",
+    "link": "https://glebbahmutov.com/blog/listen-to-the-message/"
+  },
+  {
+    "title": "The Rendered Font",
+    "link": "https://glebbahmutov.com/blog/rendered-font/"
+  },
+  {
+    "title": "Solve The First Click",
+    "link": "https://glebbahmutov.com/blog/solve-the-first-click/"
+  },
+  {
+    "title": "Cypress Module Problem",
+    "link": "https://glebbahmutov.com/blog/cypress-module-problem/"
+  },
+  {
+    "title": "When Can The Test Click",
+    "link": "https://glebbahmutov.com/blog/when-can-the-test-click/"
+  },
+  {
+    "title": "Elements Visible In The Current Viewport",
+    "link": "https://glebbahmutov.com/blog/visible-in-the-viewport/"
+  },
+  {
+    "title": "When Has The App Loaded",
+    "link": "https://glebbahmutov.com/blog/app-loaded/"
+  },
+  {
+    "title": "Stub Objects By Passing Them Via Window Property",
+    "link": "https://glebbahmutov.com/blog/stub-via-window/"
+  },
+  {
+    "title": "How Cypress Freezes CSS Animations And You Can Too",
+    "link": "https://glebbahmutov.com/blog/css-animations/"
+  },
+  {
+    "title": "Negative Assertions And Missing States",
+    "link": "https://glebbahmutov.com/blog/negative-assertions-and-missing-states/"
+  },
+  {
+    "title": "Compare The Response To A Fixture",
+    "link": "https://glebbahmutov.com/blog/fixture-and-request/"
+  },
+  {
+    "title": "Cypress Test-Driven Development Example",
+    "link": "https://glebbahmutov.com/blog/cypress-tdd/"
+  },
+  {
+    "title": "A Better cy.each Iteration",
+    "link": "https://glebbahmutov.com/blog/better-cy-each/"
+  },
+  {
+    "title": "Cypress Lighthouse Example",
+    "link": "https://glebbahmutov.com/blog/cypress-lighthouse/"
+  },
+  {
+    "title": "Code Coverage For Nextjs Application",
+    "link": "https://glebbahmutov.com/blog/code-coverage-for-nextjs-app/"
+  },
+  {
+    "title": "Control LaunchDarkly From Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/cypress-and-launchdarkly/"
+  },
+  {
+    "title": "Visualize Cypress Command Queue",
+    "link": "https://glebbahmutov.com/blog/visualize-cypress-command-queue/"
+  },
+  {
+    "title": "Replace The cy.then Command",
+    "link": "https://glebbahmutov.com/blog/replace-and-remove-cy-then-command/"
+  },
+  {
+    "title": "Incremental Blog Scraping",
+    "link": "https://glebbahmutov.com/blog/incremental-post-scraping/"
+  },
+  {
+    "title": "Email Cypress Test Report",
+    "link": "https://glebbahmutov.com/blog/email-cypress-report/"
+  },
+  {
+    "title": "Re-run The Tests By Clicking A Checkbox",
+    "link": "https://glebbahmutov.com/blog/re-run-the-tests-with-checkbox/"
+  },
+  {
+    "title": "Control React Applications From Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/react-app-actions/"
+  },
+  {
+    "title": "Access React Components From Cypress E2E Tests",
+    "link": "https://glebbahmutov.com/blog/react-state-from-e2e-tests/"
+  },
+  {
+    "title": "Repeating Tests",
+    "link": "https://glebbahmutov.com/blog/repeat-tests/"
+  },
+  {
+    "title": "Cypress History API Example",
+    "link": "https://glebbahmutov.com/blog/cypress-history-api-example/"
+  },
+  {
+    "title": "Wordle Page Objects",
+    "link": "https://glebbahmutov.com/blog/wordle-page-objects/"
+  },
+  {
+    "title": "How To Check Network Requests Using Cypress",
+    "link": "https://glebbahmutov.com/blog/network-requests-with-cypress/"
+  },
+  {
+    "title": "Pick Tests To Run Using The Pull Request Text",
+    "link": "https://glebbahmutov.com/blog/pick-tests-using-pull-request/"
+  },
+  {
+    "title": "Visit Non-HTML Page",
+    "link": "https://glebbahmutov.com/blog/visit-non-html-page/"
+  },
+  {
+    "title": "Know Your Tests",
+    "link": "https://glebbahmutov.com/blog/know-your-tests/"
+  },
+  {
+    "title": "How To Tag And Run End-to-End Tests",
+    "link": "https://glebbahmutov.com/blog/tag-tests/"
+  },
+  {
+    "title": "How To Solve A Simple Numeric Problem Using Computers and JavaScript",
+    "link": "https://glebbahmutov.com/blog/find-the-number/"
+  },
+  {
+    "title": "Crawl Local Pages Using Cypress",
+    "link": "https://glebbahmutov.com/blog/crawl-using-cypress/"
+  },
+  {
+    "title": "Cypress JSON Test Results",
+    "link": "https://glebbahmutov.com/blog/json-test-results/"
+  },
+  {
+    "title": "How I Hire",
+    "link": "https://glebbahmutov.com/blog/how-i-hire/"
+  },
+  {
+    "title": "Test Web Apps That Use The Browser FileSystem API",
+    "link": "https://glebbahmutov.com/blog/browser-filesystem-api/"
+  },
+  {
+    "title": "Save The Page On Test Failure",
+    "link": "https://glebbahmutov.com/blog/cyclope-intro/"
+  },
+  {
+    "title": "Cypress Hosts Option",
+    "link": "https://glebbahmutov.com/blog/cypress-hosts-option/"
+  },
+  {
+    "title": "Check Items For Duplicates",
+    "link": "https://glebbahmutov.com/blog/check-for-duplicates/"
+  },
+  {
+    "title": "Cypress internal commands cy.now and cy.state",
+    "link": "https://glebbahmutov.com/blog/cy-now-and-state/"
+  },
+  {
+    "title": "Faster User Object Creation",
+    "link": "https://glebbahmutov.com/blog/faster-user-creation/"
+  },
+  {
+    "title": "Server Running Inside Cypress Plugin Process",
+    "link": "https://glebbahmutov.com/blog/restart-server/"
+  },
+  {
+    "title": "Add Timestamps To Cypress",
+    "link": "https://glebbahmutov.com/blog/cypress-timestamps/"
+  },
+  {
+    "title": "Dealing With 3rd Party Scripts In Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/3rd-party/"
+  },
+  {
+    "title": "The Simplest CI Setup For Running Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/gh-reusable-workflows/"
+  },
+  {
+    "title": "Spy On DOM Methods And Properties",
+    "link": "https://glebbahmutov.com/blog/spy-on-dom-methods/"
+  },
+  {
+    "title": "Functional Helpers For Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/fp-cy-helpers/"
+  },
+  {
+    "title": "Create Custom Assertions For Test Readability",
+    "link": "https://glebbahmutov.com/blog/custom-assertions/"
+  },
+  {
+    "title": "Solve Flake In Cypress Typing Into An Input Element",
+    "link": "https://glebbahmutov.com/blog/flaky-cy-type/"
+  },
+  {
+    "title": "CircleCI Parallelism As A Parameter",
+    "link": "https://glebbahmutov.com/blog/parallelism-parameter/"
+  },
+  {
+    "title": "Test your sitemap using Cypress",
+    "link": "https://glebbahmutov.com/blog/test-sitemap/"
+  },
+  {
+    "title": "Faster test execution with cypress-grep",
+    "link": "https://glebbahmutov.com/blog/cypress-grep-filters/"
+  },
+  {
+    "title": "Flexible Cypress Data Setup And Validation",
+    "link": "https://glebbahmutov.com/blog/cypress-data-session/"
+  },
+  {
+    "title": "Refactor Tests To Be Independent And Fast Using Cypress-Each Plugin",
+    "link": "https://glebbahmutov.com/blog/refactor-using-each/"
+  },
+  {
+    "title": "Dynamic API Tests Using Cypress-Each Plugin",
+    "link": "https://glebbahmutov.com/blog/dynamic-api-tests-using-cypress-each/"
+  },
+  {
+    "title": "Cypress And TestRail",
+    "link": "https://glebbahmutov.com/blog/cypress-and-testrail/"
+  },
+  {
+    "title": "Cypress Skills Ladder",
+    "link": "https://glebbahmutov.com/blog/cypress-skills-ladder/"
+  },
+  {
+    "title": "Get Faster Feedback From Your Cypress Tests Running On CircleCI",
+    "link": "https://glebbahmutov.com/blog/faster-ci-feedback-on-circleci/"
+  },
+  {
+    "title": "Get Faster Feedback From Your Cypress Tests Running On GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/faster-ci-feedback/"
+  },
+  {
+    "title": "Make GraphQL Calls From Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/request-graphql/"
+  },
+  {
+    "title": "Dynamic Tests From Cypress Fixture",
+    "link": "https://glebbahmutov.com/blog/dynamic-tests-from-fixture/"
+  },
+  {
+    "title": "What I Do After A Conference",
+    "link": "https://glebbahmutov.com/blog/what-i-do-after-a-conference/"
+  },
+  {
+    "title": "Test Plain Or Markdown File Using Cypress",
+    "link": "https://glebbahmutov.com/blog/test-plain-or-markdown-file/"
+  },
+  {
+    "title": "Skip Cypress Install On CI",
+    "link": "https://glebbahmutov.com/blog/skip-cypress-install-on-ci/"
+  },
+  {
+    "title": "How To Verify Phone Number During Tests Part 2",
+    "link": "https://glebbahmutov.com/blog/verify-phone-part-two/"
+  },
+  {
+    "title": "How To Verify Phone Number During Tests Part 1",
+    "link": "https://glebbahmutov.com/blog/verify-phone-part-one/"
+  },
+  {
+    "title": "Solving The Element Is Detached From DOM Error In Cypress",
+    "link": "https://glebbahmutov.com/blog/detached/"
+  },
+  {
+    "title": "Scrape Slides",
+    "link": "https://glebbahmutov.com/blog/scrape-slides/"
+  },
+  {
+    "title": "Code Coverage For Chat App",
+    "link": "https://glebbahmutov.com/blog/code-coverage-for-chat-tests/"
+  },
+  {
+    "title": "Test Video Play Using Cypress",
+    "link": "https://glebbahmutov.com/blog/test-video-play/"
+  },
+  {
+    "title": "Mock Network When Using Next.js getServerSideProps Call",
+    "link": "https://glebbahmutov.com/blog/mock-network-from-server/"
+  },
+  {
+    "title": "Listen To The Application Events From Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/listen-to-events/"
+  },
+  {
+    "title": "Control The Application Through PubSub From Cypress",
+    "link": "https://glebbahmutov.com/blog/test-pubsub/"
+  },
+  {
+    "title": "Visit The Blank Page Between Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/visit-blank-page-between-tests/"
+  },
+  {
+    "title": "Burn Cypress Tests on CircleCI",
+    "link": "https://glebbahmutov.com/blog/burn-tests-on-circle/"
+  },
+  {
+    "title": "Avoid Cypress Pyramid of Doom",
+    "link": "https://glebbahmutov.com/blog/avoid-cypress-pyramid-of-doom/"
+  },
+  {
+    "title": "Control Next.js Server-Side Data During Cypress Tests",
+    "link": "https://glebbahmutov.com/blog/control-nextjs-data-during-tests/"
+  },
+  {
+    "title": "Test Feature Flags Using Cypress and Flagsmith",
+    "link": "https://glebbahmutov.com/blog/test-feature-flags/"
+  },
+  {
+    "title": "Testing React Native Navigation",
+    "link": "https://glebbahmutov.com/blog/rn-test-for-navigation/"
+  },
+  {
+    "title": "Testing A Web App Using The Keyboard Only",
+    "link": "https://glebbahmutov.com/blog/test-app-using-the-keyboard/"
+  },
+  {
+    "title": "Why cy.log Prints Nothing",
+    "link": "https://glebbahmutov.com/blog/why-cy-log-prints-nothing/"
+  },
+  {
+    "title": "How to Keep Cypress Tests in Another Repo While Using CircleCI",
+    "link": "https://glebbahmutov.com/blog/how-to-keep-cypress-tests-in-another-repo-with-circleci/"
+  },
+  {
+    "title": "Deal with Second Tab in Cypress",
+    "link": "https://glebbahmutov.com/blog/cypress-second-tab/"
+  },
+  {
+    "title": "How to Keep Cypress Tests in Another Repo While Using GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/how-to-keep-cypress-tests-in-another-repo/"
+  },
+  {
+    "title": "Cypress Real Events Plugin",
+    "link": "https://glebbahmutov.com/blog/cypress-real-events/"
+  },
+  {
+    "title": "Sync Two Cypress Runners via Checkpoints",
+    "link": "https://glebbahmutov.com/blog/sync-two-cypress-runners/"
+  },
+  {
+    "title": "Sanity Test for Landing Page",
+    "link": "https://glebbahmutov.com/blog/sanity-test/"
+  },
+  {
+    "title": "Testing React Native Todo Application Using Cypress",
+    "link": "https://glebbahmutov.com/blog/testing-rn-todo-app/"
+  },
+  {
+    "title": "Stubbing The Non-configurable",
+    "link": "https://glebbahmutov.com/blog/stubbing-the-non-configurable/"
+  },
+  {
+    "title": "The Complete Guide to Testing React Native App Using Cypress",
+    "link": "https://glebbahmutov.com/blog/testing-react-native-app-using-cypress/"
+  },
+  {
+    "title": "Run Two Cypress Test Runners At The Same Time",
+    "link": "https://glebbahmutov.com/blog/run-two-cypress-runners/"
+  },
+  {
+    "title": "Cypress vs Other Test Runners",
+    "link": "https://glebbahmutov.com/blog/cypress-vs-other-test-runners/"
+  },
+  {
+    "title": "Test a Socket.io Chat App using Cypress",
+    "link": "https://glebbahmutov.com/blog/test-socketio-chat-using-cypress/"
+  },
+  {
+    "title": "Cypress Automation",
+    "link": "https://glebbahmutov.com/blog/cypress-automation/"
+  },
+  {
+    "title": "Common Documentation Mistakes and How to Avoid Them",
+    "link": "https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/"
+  },
+  {
+    "title": "Burning Tests with cypress-grep",
+    "link": "https://glebbahmutov.com/blog/burning-tests/"
+  },
+  {
+    "title": "Make Example Code Copy Pastable",
+    "link": "https://glebbahmutov.com/blog/make-example-code-copy-pastable/"
+  },
+  {
+    "title": "Git Tips And Tricks",
+    "link": "https://glebbahmutov.com/blog/git-tips-and-tricks/"
+  },
+  {
+    "title": "In Support of the Cambridge Green New Deal Zoning Petition",
+    "link": "https://glebbahmutov.com/blog/in-support-of-cambridge-new-green-deal/"
+  },
+  {
+    "title": "Node and NPM Tips and Tricks",
+    "link": "https://glebbahmutov.com/blog/npm-tips-and-tricks/"
+  },
+  {
+    "title": "How I Answer a Cypress Question",
+    "link": "https://glebbahmutov.com/blog/answer-cypress-question/"
+  },
+  {
+    "title": "Scraping the List of Presentation Slides",
+    "link": "https://glebbahmutov.com/blog/scrape-list-of-slides/"
+  },
+  {
+    "title": "Cypress request and cookies",
+    "link": "https://glebbahmutov.com/blog/cypress-request-and-cookies/"
+  },
+  {
+    "title": "Testing Mongo with Cypress",
+    "link": "https://glebbahmutov.com/blog/testing-mongo-with-cypress/"
+  },
+  {
+    "title": "Writing Tests Progress",
+    "link": "https://glebbahmutov.com/blog/writing-tests-progress/"
+  },
+  {
+    "title": "Cypress Test Statuses",
+    "link": "https://glebbahmutov.com/blog/cypress-test-statuses/"
+  },
+  {
+    "title": "Load Fixtures from Cypress Custom Commands",
+    "link": "https://glebbahmutov.com/blog/fixtures-in-custom-commands/"
+  },
+  {
+    "title": "Stub window.track",
+    "link": "https://glebbahmutov.com/blog/stub-window-track/"
+  },
+  {
+    "title": "Fast Cypress spec bundling using ESBuild",
+    "link": "https://glebbahmutov.com/blog/fast-esbuild/"
+  },
+  {
+    "title": "Stub window.open",
+    "link": "https://glebbahmutov.com/blog/stub-window-open/"
+  },
+  {
+    "title": "Same Data = Same Page",
+    "link": "https://glebbahmutov.com/blog/same-data-same-page/"
+  },
+  {
+    "title": "Green Investing",
+    "link": "https://glebbahmutov.com/blog/green-investing/"
+  },
+  {
+    "title": "How I Organize my NPM Scripts",
+    "link": "https://glebbahmutov.com/blog/organize-npm-scripts/"
+  },
+  {
+    "title": "Write Cypress Markdown Preprocessor",
+    "link": "https://glebbahmutov.com/blog/write-cypress-preprocessor/"
+  },
+  {
+    "title": "My testimony in support of Building Justice with Jobs Act",
+    "link": "https://glebbahmutov.com/blog/building-justice-testimony/"
+  },
+  {
+    "title": "Canvas Visual Testing with Retries",
+    "link": "https://glebbahmutov.com/blog/canvas-testing/"
+  },
+  {
+    "title": "Writing Cypress Recurse Function",
+    "link": "https://glebbahmutov.com/blog/cypress-recurse/"
+  },
+  {
+    "title": "How to Test Anchor Ping",
+    "link": "https://glebbahmutov.com/blog/anchor-ping/"
+  },
+  {
+    "title": "Deploy E-Commerce Site to Netlify and Test Using GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/tested-ecommerce/"
+  },
+  {
+    "title": "Presentations with Reveal.js and Vite",
+    "link": "https://glebbahmutov.com/blog/reveal-vite/"
+  },
+  {
+    "title": "window.onbeforeunload and Cypress",
+    "link": "https://glebbahmutov.com/blog/onbeforeunload/"
+  },
+  {
+    "title": "Testing Time Zones in Parallel",
+    "link": "https://glebbahmutov.com/blog/testing-timezones/"
+  },
+  {
+    "title": "How to Test Monorepo Apps Using Cypress GitHub Action",
+    "link": "https://glebbahmutov.com/blog/test-monorepo-apps/"
+  },
+  {
+    "title": "Test Sites Deployed To Netlify Using netlify-plugin-cypress",
+    "link": "https://glebbahmutov.com/blog/test-netlify/"
+  },
+  {
+    "title": "HTML Form Validation in Cypress",
+    "link": "https://glebbahmutov.com/blog/form-validation-in-cypress/"
+  },
+  {
+    "title": "How to Avoid Using Global Cypress Variables",
+    "link": "https://glebbahmutov.com/blog/local-cypress/"
+  },
+  {
+    "title": "Solve The User Problem",
+    "link": "https://glebbahmutov.com/blog/solve-the-user-problem/"
+  },
+  {
+    "title": "Split Long GitHub Action Workflow Into Parallel Cypress Jobs",
+    "link": "https://glebbahmutov.com/blog/parallel-cypress-tests-gh-action/"
+  },
+  {
+    "title": "Debugging Cypress Geolocation Problem",
+    "link": "https://glebbahmutov.com/blog/cypress-geolocation/"
+  },
+  {
+    "title": "How to Publish Custom Cypress Command on NPM",
+    "link": "https://glebbahmutov.com/blog/publishing-cypress-command/"
+  },
+  {
+    "title": "Start CircleCI Machines Faster by Using RAM Disk",
+    "link": "https://glebbahmutov.com/blog/circle-ram-disk/"
+  },
+  {
+    "title": "Be Careful With Negative Assertions",
+    "link": "https://glebbahmutov.com/blog/negative-assertions/"
+  },
+  {
+    "title": "Backend Code Coverage from Cypress API tests",
+    "link": "https://glebbahmutov.com/blog/backend-coverage/"
+  },
+  {
+    "title": "Writing a Custom Cypress Command",
+    "link": "https://glebbahmutov.com/blog/writing-custom-cypress-command/"
+  },
+  {
+    "title": "Make Cypress Run Faster by Splitting Specs",
+    "link": "https://glebbahmutov.com/blog/split-spec/"
+  },
+  {
+    "title": "Cypress cy.intercept Problems",
+    "link": "https://glebbahmutov.com/blog/cypress-intercept-problems/"
+  },
+  {
+    "title": "Cypress Timings",
+    "link": "https://glebbahmutov.com/blog/cypress-timings/"
+  },
+  {
+    "title": "Massachusetts Climate The Final Push",
+    "link": "https://glebbahmutov.com/blog/ma-climate/"
+  },
+  {
+    "title": "Debug the Element Visibility Problems in Cypress",
+    "link": "https://glebbahmutov.com/blog/debug-visibility/"
+  },
+  {
+    "title": "Update Dependencies Using The Wisdom of The Crowds",
+    "link": "https://glebbahmutov.com/blog/renovate-crowd/"
+  },
+  {
+    "title": "Repeat Test to Fight Flake",
+    "link": "https://glebbahmutov.com/blog/repeat-to-fight-flake/"
+  },
+  {
+    "title": "Do Not Let Cypress Cache Snowball on CI",
+    "link": "https://glebbahmutov.com/blog/do-not-let-cypress-cache-snowball/"
+  },
+  {
+    "title": "Cypress Metaprogramming",
+    "link": "https://glebbahmutov.com/blog/cy-metaprogramming/"
+  },
+  {
+    "title": "Net Zero Stretch Code Testimony",
+    "link": "https://glebbahmutov.com/blog/net-zero-stretch-code-testimony/"
+  },
+  {
+    "title": "Universal Code Test with Cypress",
+    "link": "https://glebbahmutov.com/blog/universal-code-test/"
+  },
+  {
+    "title": "Versioned Docs Pages",
+    "link": "https://glebbahmutov.com/blog/versioned-doc-pages/"
+  },
+  {
+    "title": "Help Me Say Yes",
+    "link": "https://glebbahmutov.com/blog/help-me-say-yes/"
+  },
+  {
+    "title": "Do Not Let NPM Cache Snowball on CI",
+    "link": "https://glebbahmutov.com/blog/do-not-let-npm-cache-snowball/"
+  },
+  {
+    "title": "Writing Webpack Loader",
+    "link": "https://glebbahmutov.com/blog/writing-webpack-loader/"
+  },
+  {
+    "title": "Effective React Tests",
+    "link": "https://glebbahmutov.com/blog/effective-react-tests/"
+  },
+  {
+    "title": "Testing Content-Security-Policy using Cypress ... Almost",
+    "link": "https://glebbahmutov.com/blog/testing-csp-almost/"
+  },
+  {
+    "title": "Cypress WASM Example",
+    "link": "https://glebbahmutov.com/blog/cypress-wasm-example/"
+  },
+  {
+    "title": "Testing Pyramids",
+    "link": "https://glebbahmutov.com/blog/testing-pyramids/"
+  },
+  {
+    "title": "Access XState from Cypress Test",
+    "link": "https://glebbahmutov.com/blog/cypress-and-xstate/"
+  },
+  {
+    "title": "Difference between cy.route and cy.route2",
+    "link": "https://glebbahmutov.com/blog/cy-route-vs-route2/"
+  },
+  {
+    "title": "Rocks and Stones",
+    "link": "https://glebbahmutov.com/blog/rocks-and-stones/"
+  },
+  {
+    "title": "Smart GraphQL Stubbing in Cypress",
+    "link": "https://glebbahmutov.com/blog/smart-graphql-stubbing/"
+  },
+  {
+    "title": "Multiple Benefits",
+    "link": "https://glebbahmutov.com/blog/multiple-benefits/"
+  },
+  {
+    "title": "Wrap Cypress Using NPM Module API",
+    "link": "https://glebbahmutov.com/blog/wrap-cypress-using-npm/"
+  },
+  {
+    "title": "Components People Test",
+    "link": "https://glebbahmutov.com/blog/components-people-test/"
+  },
+  {
+    "title": "Cypress Book",
+    "link": "https://glebbahmutov.com/blog/cypress-book/"
+  },
+  {
+    "title": "What I Have Done - An Analysis",
+    "link": "https://glebbahmutov.com/blog/what-i-have-done/"
+  },
+  {
+    "title": "It Is OK to Get Stuck Sometimes",
+    "link": "https://glebbahmutov.com/blog/it-is-ok-to-get-stuck/"
+  },
+  {
+    "title": "Test the Preview Vercel Deploys",
+    "link": "https://glebbahmutov.com/blog/develop-preview-test/"
+  },
+  {
+    "title": "Test The Interface Not The Implementation",
+    "link": "https://glebbahmutov.com/blog/test-the-interface/"
+  },
+  {
+    "title": "Why Cypress?",
+    "link": "https://glebbahmutov.com/blog/why-cypress/"
+  },
+  {
+    "title": "How to Testify About Environment at a Public Hearing",
+    "link": "https://glebbahmutov.com/blog/how-to-testify/"
+  },
+  {
+    "title": "Write Your First Vue Component Test",
+    "link": "https://glebbahmutov.com/blog/first-vue-component-test/"
+  },
+  {
+    "title": "Stop The Money Pipeline",
+    "link": "https://glebbahmutov.com/blog/stop-the-money-pipeline/"
+  },
+  {
+    "title": "Visual testing for React components using open source tools",
+    "link": "https://glebbahmutov.com/blog/open-source-visual-testing-of-components/"
+  },
+  {
+    "title": "Import Cypress fixtures",
+    "link": "https://glebbahmutov.com/blog/import-cypress-fixtures/"
+  },
+  {
+    "title": "Tic-Tac-Toe Component Tests",
+    "link": "https://glebbahmutov.com/blog/tic-tac-toe-component-tests/"
+  },
+  {
+    "title": "Be careful when running all specs together",
+    "link": "https://glebbahmutov.com/blog/run-all-specs/"
+  },
+  {
+    "title": "Keep Examples Up To Date",
+    "link": "https://glebbahmutov.com/blog/keep-examples-up-to-date/"
+  },
+  {
+    "title": "Mocking named TypeScript imports during tests",
+    "link": "https://glebbahmutov.com/blog/mocking-named-typescript-imports/"
+  },
+  {
+    "title": "My Vision for Component Tests in Cypress",
+    "link": "https://glebbahmutov.com/blog/my-vision-for-component-tests/"
+  },
+  {
+    "title": "Cleaning Up Space on Development Machine",
+    "link": "https://glebbahmutov.com/blog/cleaning-up-space/"
+  },
+  {
+    "title": "How To Update Only Some Dependencies Using Renovate App",
+    "link": "https://glebbahmutov.com/blog/whitelist-renovate/"
+  },
+  {
+    "title": "Example CI configs",
+    "link": "https://glebbahmutov.com/blog/example-ci-configs/"
+  },
+  {
+    "title": "Testing Sentry Call with Cypress",
+    "link": "https://glebbahmutov.com/blog/testing-sentry-with-cypress/"
+  },
+  {
+    "title": "Scrape Static Site with Algolia",
+    "link": "https://glebbahmutov.com/blog/scrape-static-site-with-algolia/"
+  },
+  {
+    "title": "Triple Tested Static Site Deployed to GitHub Pages Using GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/triple-tested/"
+  },
+  {
+    "title": "CitizenClimateLobby short pitch",
+    "link": "https://glebbahmutov.com/blog/ccl-pitch-at-pkg/"
+  },
+  {
+    "title": "Support Node 6 installs",
+    "link": "https://glebbahmutov.com/blog/support-node6-installs/"
+  },
+  {
+    "title": "Check links in your Markdown documents",
+    "link": "https://glebbahmutov.com/blog/check-markdown-links/"
+  },
+  {
+    "title": "My testimony in support of banning gas infrastructure in new construction in Cambridge, MA",
+    "link": "https://glebbahmutov.com/blog/gas-ban-testimony/"
+  },
+  {
+    "title": "A plea for climate in year 2020",
+    "link": "https://glebbahmutov.com/blog/a-plea-for-climate-2020/"
+  },
+  {
+    "title": "Paint roof white",
+    "link": "https://glebbahmutov.com/blog/paint-roof-white/"
+  },
+  {
+    "title": "Keep passwords secret in E2E tests",
+    "link": "https://glebbahmutov.com/blog/keep-passwords-secret-in-e2e-tests/"
+  },
+  {
+    "title": "How to set up Mocha with Sinon.js",
+    "link": "https://glebbahmutov.com/blog/mocha-and-sinon/"
+  },
+  {
+    "title": "Cypress Talks",
+    "link": "https://glebbahmutov.com/blog/cypress-talks/"
+  },
+  {
+    "title": "Trying GitHub Actions",
+    "link": "https://glebbahmutov.com/blog/trying-github-actions/"
+  },
+  {
+    "title": "Run End-to-end Tests from Markdown Files",
+    "link": "https://glebbahmutov.com/blog/cypress-fiddle/"
+  },
+  {
+    "title": "Cambridge MA elections",
+    "link": "https://glebbahmutov.com/blog/cambridge-elections/"
+  },
+  {
+    "title": "Testing Angular application via App Actions",
+    "link": "https://glebbahmutov.com/blog/testing-angular-application-via-app-actions/"
+  },
+  {
+    "title": "Visual diffing flow for your pretty CLI applications",
+    "link": "https://glebbahmutov.com/blog/visual-diffing-for-CLI-apps/"
+  },
+  {
+    "title": "How to configure Prettier and VSCode",
+    "link": "https://glebbahmutov.com/blog/configure-prettier-in-vscode/"
+  },
+  {
+    "title": "Cypress using child window",
+    "link": "https://glebbahmutov.com/blog/cypress-using-child-window/"
+  },
+  {
+    "title": "Patching Cypress CLI NPM module",
+    "link": "https://glebbahmutov.com/blog/patching-cypress-cli-npm-module/"
+  },
+  {
+    "title": "Fix low contrast with Cypress",
+    "link": "https://glebbahmutov.com/blog/fix-low-contrast-with-cypress/"
+  },
+  {
+    "title": "Filtering Mocha tests",
+    "link": "https://glebbahmutov.com/blog/filter-mocha-tests/"
+  },
+  {
+    "title": "Detect page reload from Cypress test",
+    "link": "https://glebbahmutov.com/blog/detect-page-reload/"
+  },
+  {
+    "title": "Climate Emergency",
+    "link": "https://glebbahmutov.com/blog/climate-emergency/"
+  },
+  {
+    "title": "Ariel Rider M-class",
+    "link": "https://glebbahmutov.com/blog/ariel-rider-ebike/"
+  },
+  {
+    "title": "How to write end-to-end test using app and api actions",
+    "link": "https://glebbahmutov.com/blog/realworld-app-action/"
+  },
+  {
+    "title": "Black box API testing with server logs",
+    "link": "https://glebbahmutov.com/blog/api-testing-with-server-logs/"
+  },
+  {
+    "title": "Capture all the logs",
+    "link": "https://glebbahmutov.com/blog/capture-all-the-logs/"
+  },
+  {
+    "title": "Run Cypress included from Docker container",
+    "link": "https://glebbahmutov.com/blog/run-cypress-included-from-docker-container/"
+  },
+  {
+    "title": "End-to-end Testing for Server-Side Rendered Pages",
+    "link": "https://glebbahmutov.com/blog/ssr-e2e/"
+  },
+  {
+    "title": "Combined End-to-end and Unit Test Coverage",
+    "link": "https://glebbahmutov.com/blog/combined-end-to-end-and-unit-test-coverage/"
+  },
+  {
+    "title": "Code Coverage by Parcel Bundler",
+    "link": "https://glebbahmutov.com/blog/code-coverage-by-parcel/"
+  },
+  {
+    "title": "Using TypeScript aliases in Cypress tests",
+    "link": "https://glebbahmutov.com/blog/using-ts-aliases-in-cypress-tests/"
+  },
+  {
+    "title": "Code Coverage for End-to-end Tests",
+    "link": "https://glebbahmutov.com/blog/code-coverage-for-e2e-tests/"
+  },
+  {
+    "title": "Stub navigator API in end-to-end tests",
+    "link": "https://glebbahmutov.com/blog/stub-navigator-api/"
+  },
+  {
+    "title": "Testing an online chainsaw store using Cypress.io",
+    "link": "https://glebbahmutov.com/blog/chainsaws/"
+  },
+  {
+    "title": "NPM Install with just GitHub",
+    "link": "https://glebbahmutov.com/blog/npm-install-with-just-github/"
+  },
+  {
+    "title": "Readable Cypress.io tests",
+    "link": "https://glebbahmutov.com/blog/readable-tests/"
+  },
+  {
+    "title": "Testing how an application renders a drawing with Cypress and Percy.io",
+    "link": "https://glebbahmutov.com/blog/testing-visually/"
+  },
+  {
+    "title": "Testing a chart with Cypress and Applitools",
+    "link": "https://glebbahmutov.com/blog/testing-a-chart/"
+  },
+  {
+    "title": "Parallel or not",
+    "link": "https://glebbahmutov.com/blog/parallel-or-not/"
+  },
+  {
+    "title": "Zeit Now v2 workflow",
+    "link": "https://glebbahmutov.com/blog/zeit-now-v2-workflow/"
+  },
+  {
+    "title": "Use TypeScript With Cypress",
+    "link": "https://glebbahmutov.com/blog/use-typescript-with-cypress/"
+  },
+  {
+    "title": "Cypress is just ...",
+    "link": "https://glebbahmutov.com/blog/cypress-is/"
+  },
+  {
+    "title": "Don't help me say No",
+    "link": "https://glebbahmutov.com/blog/dont-help-me-say-no/"
+  },
+  {
+    "title": "Cypress should callback",
+    "link": "https://glebbahmutov.com/blog/cypress-should-callback/"
+  },
+  {
+    "title": "Do not use NODE_ENV for staging",
+    "link": "https://glebbahmutov.com/blog/do-not-use-node-env-for-staging/"
+  },
+  {
+    "title": "E2E Testing json-graphql-server using Cypress",
+    "link": "https://glebbahmutov.com/blog/e2e-testing-graphql-using-cypress/"
+  },
+  {
+    "title": "Functional middleware",
+    "link": "https://glebbahmutov.com/blog/functional-middleware/"
+  },
+  {
+    "title": "Hyperapp state machine web app",
+    "link": "https://glebbahmutov.com/blog/hyperapp-state-machine/"
+  },
+  {
+    "title": "Element coverage for end-to-end tests",
+    "link": "https://glebbahmutov.com/blog/element-coverage/"
+  },
+  {
+    "title": "Use GitHub instead of NPM",
+    "link": "https://glebbahmutov.com/blog/use-github-instead-of-npm/"
+  },
+  {
+    "title": "Cypress jump",
+    "link": "https://glebbahmutov.com/blog/cypress-jump/"
+  },
+  {
+    "title": "Mocking GraphQL with Lunar in Cypress End-to-End Tests",
+    "link": "https://glebbahmutov.com/blog/mock-graphql-with-lunar-in-cypress-tests/"
+  },
+  {
+    "title": "Good logging",
+    "link": "https://glebbahmutov.com/blog/good-logging/"
+  },
+  {
+    "title": "Solving JS equality game with Cypress test runner",
+    "link": "https://glebbahmutov.com/blog/js-equality-game/"
+  },
+  {
+    "title": "Set flag to start tests",
+    "link": "https://glebbahmutov.com/blog/set-flag-to-start-tests/"
+  },
+  {
+    "title": "Run and group tests the way you want to",
+    "link": "https://glebbahmutov.com/blog/run-and-group-tests/"
+  },
+  {
+    "title": "Should I start with Cypress.io?",
+    "link": "https://glebbahmutov.com/blog/should-i-start-with-cypress/"
+  },
+  {
+    "title": "Mocking process.env",
+    "link": "https://glebbahmutov.com/blog/mocking-process-env/"
+  },
+  {
+    "title": "Zeit Now GitHub app + Renovate app + Cypress tests = 💝",
+    "link": "https://glebbahmutov.com/blog/zeit-now-renovate-and-app/"
+  },
+  {
+    "title": "Carriage return",
+    "link": "https://glebbahmutov.com/blog/carriage-return/"
+  },
+  {
+    "title": "Gatsby Netlify Circle and Cypress",
+    "link": "https://glebbahmutov.com/blog/gatsby-netlify-circle-and-cypress/"
+  },
+  {
+    "title": "Incredibly Powerful cy.task",
+    "link": "https://glebbahmutov.com/blog/powerful-cy-task/"
+  },
+  {
+    "title": "Rolling for a Test",
+    "link": "https://glebbahmutov.com/blog/rolling-for-test/"
+  },
+  {
+    "title": "Tested live documentation is a thing with MDX, Docz and Cypress",
+    "link": "https://glebbahmutov.com/blog/tested-live-documentation/"
+  },
+  {
+    "title": "Trying GraphQL",
+    "link": "https://glebbahmutov.com/blog/trying-graphql/"
+  },
+  {
+    "title": "Trying Redis",
+    "link": "https://glebbahmutov.com/blog/trying-out-redis/"
+  },
+  {
+    "title": "VuePress and some Cypress end-to-end testing tips",
+    "link": "https://glebbahmutov.com/blog/vuepress-conditional-testing/"
+  },
+  {
+    "title": "Lock Down Sinon Stub",
+    "link": "https://glebbahmutov.com/blog/lock-down-sinon-stub/"
+  },
+  {
+    "title": "How I Organize README",
+    "link": "https://glebbahmutov.com/blog/how-i-organize-readme/"
+  },
+  {
+    "title": "Painless Dependency Upgrades with Renovate App",
+    "link": "https://glebbahmutov.com/blog/renovate-app/"
+  },
+  {
+    "title": "Debugging Mocha from Node using Chrome Inspector",
+    "link": "https://glebbahmutov.com/blog/debugging-mocha-using-inspector/"
+  },
+  {
+    "title": "Subfolders as Dependencies",
+    "link": "https://glebbahmutov.com/blog/subfolders-as-dependencies/"
+  },
+  {
+    "title": "Parcel Bundler",
+    "link": "https://glebbahmutov.com/blog/parcel/"
+  },
+  {
+    "title": "Use Lenses in Hyperapp",
+    "link": "https://glebbahmutov.com/blog/use-lenses-in-hyperapp/"
+  },
+  {
+    "title": "Testing ES6 Module in Cypress Electron Browser",
+    "link": "https://glebbahmutov.com/blog/testing-es6-module-in-cypress-electron/"
+  },
+  {
+    "title": "Drive-by Testing Array Explorer",
+    "link": "https://glebbahmutov.com/blog/drive-by-testing-array-explorer/"
+  },
+  {
+    "title": "Testing Vue CLI reload",
+    "link": "https://glebbahmutov.com/blog/testing-vue-cli-reload/"
+  },
+  {
+    "title": "Quick functional refactoring",
+    "link": "https://glebbahmutov.com/blog/quick-refactoring/"
+  },
+  {
+    "title": "JSON schema for the win",
+    "link": "https://glebbahmutov.com/blog/json-schema-for-the-win/"
+  },
+  {
+    "title": "Sync callbacks",
+    "link": "https://glebbahmutov.com/blog/sync-callbacks/"
+  },
+  {
+    "title": "Split CI Jobs",
+    "link": "https://glebbahmutov.com/blog/split-ci-jobs/"
+  },
+  {
+    "title": "Testing Svelte Store",
+    "link": "https://glebbahmutov.com/blog/testing-svelte-store/"
+  },
+  {
+    "title": "Vue Vuex REST TodoMVC example",
+    "link": "https://glebbahmutov.com/blog/vue-vuex-rest-todomvx/"
+  },
+  {
+    "title": "Making small Docker image",
+    "link": "https://glebbahmutov.com/blog/making-small-docker-image/"
+  },
+  {
+    "title": "Local overrides",
+    "link": "https://glebbahmutov.com/blog/local-overrides/"
+  },
+  {
+    "title": "DevOps Testing Panel",
+    "link": "https://glebbahmutov.com/blog/devops-testing/"
+  },
+  {
+    "title": "Test Runners",
+    "link": "https://glebbahmutov.com/blog/test-runners/"
+  },
+  {
+    "title": "Tests, closures and arrow functions",
+    "link": "https://glebbahmutov.com/blog/test-closures/"
+  },
+  {
+    "title": "Semantic Action",
+    "link": "https://glebbahmutov.com/blog/semantic-action/"
+  },
+  {
+    "title": "Use a little bit of FP",
+    "link": "https://glebbahmutov.com/blog/use-a-little-bit-of-fp/"
+  },
+  {
+    "title": "Slow updates",
+    "link": "https://glebbahmutov.com/blog/slow-updates/"
+  },
+  {
+    "title": "Kliesli composition",
+    "link": "https://glebbahmutov.com/blog/kleisli/"
+  },
+  {
+    "title": "Releasing for old Node",
+    "link": "https://glebbahmutov.com/blog/releasing-for-old-node/"
+  },
+  {
+    "title": "SSH Deploy from CI",
+    "link": "https://glebbahmutov.com/blog/ssh-deploy-from-ci/"
+  },
+  {
+    "title": "Quick and dirty CURL use",
+    "link": "https://glebbahmutov.com/blog/quick-curl-from-terminal/"
+  },
+  {
+    "title": "Linters Gonna Lint",
+    "link": "https://glebbahmutov.com/blog/linters-gonna-lint/"
+  },
+  {
+    "title": "I can see clearly now",
+    "link": "https://glebbahmutov.com/blog/lenses/"
+  },
+  {
+    "title": "Mocking vs Refactoring",
+    "link": "https://glebbahmutov.com/blog/mocking-vs-refactoring/"
+  },
+  {
+    "title": "Mock system APIs",
+    "link": "https://glebbahmutov.com/blog/mock-system-apis/"
+  },
+  {
+    "title": "Quick Solid NPM Module",
+    "link": "https://glebbahmutov.com/blog/quick-solid-module/"
+  },
+  {
+    "title": "Rocha and Focha",
+    "link": "https://glebbahmutov.com/blog/rocha-focha/"
+  },
+  {
+    "title": "VP of Success",
+    "link": "https://glebbahmutov.com/blog/vp-of-success/"
+  },
+  {
+    "title": "How To Draw An Owl",
+    "link": "https://glebbahmutov.com/blog/how-to-draw-an-owl/"
+  },
+  {
+    "title": "Docker User",
+    "link": "https://glebbahmutov.com/blog/docker-user/"
+  },
+  {
+    "title": "Data Coverage",
+    "link": "https://glebbahmutov.com/blog/data-coverage/"
+  },
+  {
+    "title": "Deriving Y Combinator",
+    "link": "https://glebbahmutov.com/blog/y-combinator/"
+  },
+  {
+    "title": "Worst Code I Have Written Lately",
+    "link": "https://glebbahmutov.com/blog/worst-code/"
+  },
+  {
+    "title": "Picking snapshot library",
+    "link": "https://glebbahmutov.com/blog/picking-snapshot-library/"
+  },
+  {
+    "title": "Ramda for reactive streams",
+    "link": "https://glebbahmutov.com/blog/ramda-for-reactive-streams/"
+  },
+  {
+    "title": "The intuition behind applicative",
+    "link": "https://glebbahmutov.com/blog/applicative-intuition/"
+  },
+  {
+    "title": "Rolled libraries",
+    "link": "https://glebbahmutov.com/blog/rolled-libraries/"
+  },
+  {
+    "title": "Tested Curl",
+    "link": "https://glebbahmutov.com/blog/tested-curl/"
+  },
+  {
+    "title": "Async functions in Service Workers",
+    "link": "https://glebbahmutov.com/blog/async-functions-in-sw/"
+  },
+  {
+    "title": "URL type using TypeScript or FP",
+    "link": "https://glebbahmutov.com/blog/url-type/"
+  },
+  {
+    "title": "Web app routing with fallback",
+    "link": "https://glebbahmutov.com/blog/routing-with-fallback/"
+  },
+  {
+    "title": "Testing Trapezoid",
+    "link": "https://glebbahmutov.com/blog/testing-trapezoid/"
+  },
+  {
+    "title": "Fixing the Internet one NPM package at a time",
+    "link": "https://glebbahmutov.com/blog/fixing-the-internet-one-npm-package-at-a-time/"
+  },
+  {
+    "title": "Web Packing the Internet",
+    "link": "https://glebbahmutov.com/blog/web-packing-the-internet/"
+  },
+  {
+    "title": "Call me Maybe",
+    "link": "https://glebbahmutov.com/blog/call-me-maybe/"
+  },
+  {
+    "title": "Asking coworkers to decide my career",
+    "link": "https://glebbahmutov.com/blog/asking-coworkers/"
+  },
+  {
+    "title": "Pure programming with Hyper App",
+    "link": "https://glebbahmutov.com/blog/pure-programming-with-hyper-app/"
+  },
+  {
+    "title": "Trying TypeScript",
+    "link": "https://glebbahmutov.com/blog/trying-typescript/"
+  },
+  {
+    "title": "Better slide format",
+    "link": "https://glebbahmutov.com/blog/better-slide-format/"
+  },
+  {
+    "title": "Large Web App Development",
+    "link": "https://glebbahmutov.com/blog/large-web-app-development/"
+  },
+  {
+    "title": "My favorite ES6",
+    "link": "https://glebbahmutov.com/blog/my-favorite-es6/"
+  },
+  {
+    "title": "Schema-shot - snapshot testing for dynamic data",
+    "link": "https://glebbahmutov.com/blog/schema-shot/"
+  },
+  {
+    "title": "Five times when I write tests",
+    "link": "https://glebbahmutov.com/blog/5-times-when-I-write-tests/"
+  },
+  {
+    "title": "How I publish to NPM",
+    "link": "https://glebbahmutov.com/blog/how-i-publish-to-npm/"
+  },
+  {
+    "title": "Snapshot testing the hard way",
+    "link": "https://glebbahmutov.com/blog/snapshot-testing/"
+  },
+  {
+    "title": "Accurate call sites",
+    "link": "https://glebbahmutov.com/blog/accurate-call-sites/"
+  },
+  {
+    "title": "Accurate values in comments",
+    "link": "https://glebbahmutov.com/blog/accurate-values-in-comments/"
+  },
+  {
+    "title": "SPA authentication with Auth0",
+    "link": "https://glebbahmutov.com/blog/SPA-authentication-with-auth0/"
+  },
+  {
+    "title": "jscodeshift example",
+    "link": "https://glebbahmutov.com/blog/jscodeshift-example/"
+  },
+  {
+    "title": "HTTP/2 server push on Dokku",
+    "link": "https://glebbahmutov.com/blog/server-push-on-dokku/"
+  },
+  {
+    "title": "Cypress Tips and Tricks",
+    "link": "https://glebbahmutov.com/blog/cypress-tips-and-tricks/"
+  },
+  {
+    "title": "Functors encapsulate imperative logic",
+    "link": "https://glebbahmutov.com/blog/functors-encapsulate-imperative-logic/"
+  },
+  {
+    "title": "Why use reactive streams for components?",
+    "link": "https://glebbahmutov.com/blog/why-use-reactive-streams-for-components/"
+  },
+  {
+    "title": "Connecting crash reporting with end to end tests",
+    "link": "https://glebbahmutov.com/blog/connecting-crash-reporting-with-end-to-end-tests/"
+  },
+  {
+    "title": "If Else vs Either Monad vs FRP",
+    "link": "https://glebbahmutov.com/blog/if-else-vs-either-monad-vs-frp/"
+  },
+  {
+    "title": "Electron app with custom protocol",
+    "link": "https://glebbahmutov.com/blog/electron-app-with-custom-protocol/"
+  },
+  {
+    "title": "Git bisect",
+    "link": "https://glebbahmutov.com/blog/git-bisect/"
+  },
+  {
+    "title": "Subresource integrity (SRI)",
+    "link": "https://glebbahmutov.com/blog/subresource-integrity/"
+  },
+  {
+    "title": "Synching PouchdDB with remote DB",
+    "link": "https://glebbahmutov.com/blog/synching-db/"
+  },
+  {
+    "title": "Think inside the box",
+    "link": "https://glebbahmutov.com/blog/think-inside-the-box/"
+  },
+  {
+    "title": "ServiceWorker intro",
+    "link": "https://glebbahmutov.com/blog/service-worker-intro/"
+  },
+  {
+    "title": "Splitting pull request",
+    "link": "https://glebbahmutov.com/blog/splitting-pull-request/"
+  },
+  {
+    "title": "Semantic release on GitLab",
+    "link": "https://glebbahmutov.com/blog/semantic-release-on-gitlab/"
+  },
+  {
+    "title": "Monads",
+    "link": "https://glebbahmutov.com/blog/monads/"
+  },
+  {
+    "title": "Preloading Node module",
+    "link": "https://glebbahmutov.com/blog/preloading-node-module/"
+  },
+  {
+    "title": "CycleJS FrontEnd Camp",
+    "link": "https://glebbahmutov.com/blog/cyclejs-frontendcamp/"
+  },
+  {
+    "title": "Deploying private NPM modules to Zeit",
+    "link": "https://glebbahmutov.com/blog/deploying-private-npm-modules-to-zeit/"
+  },
+  {
+    "title": "Parallel end to end testing with Cypress, Docker and GitLab",
+    "link": "https://glebbahmutov.com/blog/parallel-end-to-end-testing/"
+  },
+  {
+    "title": "Immutable deploys with data and testing",
+    "link": "https://glebbahmutov.com/blog/immutable-deploys-with-data-and-testing/"
+  },
+  {
+    "title": "Publish release notes to Slack",
+    "link": "https://glebbahmutov.com/blog/publish-release-notes-to-slack/"
+  },
+  {
+    "title": "Manual semantic release setup",
+    "link": "https://glebbahmutov.com/blog/manual-semantic-release-setup/"
+  },
+  {
+    "title": "Which JavaScript framework should I use next?",
+    "link": "https://glebbahmutov.com/blog/buzzjs/"
+  },
+  {
+    "title": "Shell variables in NPM scripts",
+    "link": "https://glebbahmutov.com/blog/shell-variables-in-npm-scripts/"
+  },
+  {
+    "title": "Conditional breakpoints in Chrome DevTools",
+    "link": "https://glebbahmutov.com/blog/conditional-breakpoints-in-chrome-devtools/"
+  },
+  {
+    "title": "OReilly OSCON",
+    "link": "https://glebbahmutov.com/blog/oscon/"
+  },
+  {
+    "title": "Turning code coverage into live stream",
+    "link": "https://glebbahmutov.com/blog/turning-code-coverage-into-live-stream/"
+  },
+  {
+    "title": "Getting good at FP",
+    "link": "https://glebbahmutov.com/blog/getting-good-at-fp/"
+  },
+  {
+    "title": "Web testing nirvana with Cypress",
+    "link": "https://glebbahmutov.com/blog/web-testing-nirvana-with-cypress/"
+  },
+  {
+    "title": "CycleConf",
+    "link": "https://glebbahmutov.com/blog/cycle-conf/"
+  },
+  {
+    "title": "Counting promises vs Rx",
+    "link": "https://glebbahmutov.com/blog/counting-promises-vs-rx/"
+  },
+  {
+    "title": "Is framework pure or not?",
+    "link": "https://glebbahmutov.com/blog/is-framework-pure-or-not/"
+  },
+  {
+    "title": "Extra FP for RxJS",
+    "link": "https://glebbahmutov.com/blog/extra-fp-for-rx/"
+  },
+  {
+    "title": "Not tested - not included!",
+    "link": "https://glebbahmutov.com/blog/not-tested-not-included/"
+  },
+  {
+    "title": "Jade (now Pug) nuggets",
+    "link": "https://glebbahmutov.com/blog/jade-pug-tips/"
+  },
+  {
+    "title": "Test if a function is pure revisited",
+    "link": "https://glebbahmutov.com/blog/test-if-a-function-is-pure-revisited/"
+  },
+  {
+    "title": "Running multiple applications in Dokku",
+    "link": "https://glebbahmutov.com/blog/running-multiple-applications-in-dokku/"
+  },
+  {
+    "title": "Angular nuggets",
+    "link": "https://glebbahmutov.com/blog/angular-nuggets/"
+  },
+  {
+    "title": "JavaScript nuggets",
+    "link": "https://glebbahmutov.com/blog/javascript-nuggets/"
+  },
+  {
+    "title": "Replacing the wheels on the running car",
+    "link": "https://glebbahmutov.com/blog/replacing-the-wheels-on-the-running-car/"
+  },
+  {
+    "title": "Simple Ajax testing",
+    "link": "https://glebbahmutov.com/blog/simple-ajax-testing/"
+  },
+  {
+    "title": "Moving commits",
+    "link": "https://glebbahmutov.com/blog/moving-commits/"
+  },
+  {
+    "title": "Parameter destructuring",
+    "link": "https://glebbahmutov.com/blog/parameter-destructuring/"
+  },
+  {
+    "title": "Refactoring to compose",
+    "link": "https://glebbahmutov.com/blog/refactoring-to-compose/"
+  },
+  {
+    "title": "Playing havoc with Node module system",
+    "link": "https://glebbahmutov.com/blog/playing-havoc-with-node-module-system/"
+  },
+  {
+    "title": "How to crash",
+    "link": "https://glebbahmutov.com/blog/how-to-crash/"
+  },
+  {
+    "title": "Developing Wiseli",
+    "link": "https://glebbahmutov.com/blog/developing-wiseli/"
+  },
+  {
+    "title": "Testing reactive code",
+    "link": "https://glebbahmutov.com/blog/testing-reactive-code/"
+  },
+  {
+    "title": "Microservices in the cloud with Tutum",
+    "link": "https://glebbahmutov.com/blog/microservices-in-the-cloud-tutum/"
+  },
+  {
+    "title": "Redux and RethinkDB",
+    "link": "https://glebbahmutov.com/blog/redux-and-rethinkdb/"
+  },
+  {
+    "title": "From callbacks to Tasks",
+    "link": "https://glebbahmutov.com/blog/from-callbacks-to-tasks/"
+  },
+  {
+    "title": "Local microservice containers",
+    "link": "https://glebbahmutov.com/blog/local-microservice-containers/"
+  },
+  {
+    "title": "Microservices with fuge",
+    "link": "https://glebbahmutov.com/blog/microservices-with-fuge/"
+  },
+  {
+    "title": "Node server with Rx and Cycle.js",
+    "link": "https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/"
+  },
+  {
+    "title": "How to become a better hacker",
+    "link": "https://glebbahmutov.com/blog/better-hacker/"
+  },
+  {
+    "title": "Difference between a Promise and a Task",
+    "link": "https://glebbahmutov.com/blog/difference-between-promise-and-task/"
+  },
+  {
+    "title": "Precompiled JavaScript",
+    "link": "https://glebbahmutov.com/blog/precompiled-javascript/"
+  },
+  {
+    "title": "JavaScript needs the compile step (on install)",
+    "link": "https://glebbahmutov.com/blog/javascript-needs-compile-step/"
+  },
+  {
+    "title": "I write 3 types of software",
+    "link": "https://glebbahmutov.com/blog/i-write-3-types-of-software/"
+  },
+  {
+    "title": "Run Express server in your browser",
+    "link": "https://glebbahmutov.com/blog/run-express-server-in-your-browser/"
+  },
+  {
+    "title": "Using webpack",
+    "link": "https://glebbahmutov.com/blog/using-webpack/"
+  },
+  {
+    "title": "The senior engineer role",
+    "link": "https://glebbahmutov.com/blog/the-senior-engineer-role/"
+  },
+  {
+    "title": "Instant Web Application",
+    "link": "https://glebbahmutov.com/blog/instant-web-application/"
+  },
+  {
+    "title": "Hydrate at build time",
+    "link": "https://glebbahmutov.com/blog/hydrate-at-build-time/"
+  },
+  {
+    "title": "Hydrate your apps",
+    "link": "https://glebbahmutov.com/blog/hydrate-your-apps/"
+  },
+  {
+    "title": "My Node tools",
+    "link": "https://glebbahmutov.com/blog/my-node-tools/"
+  },
+  {
+    "title": "Pass the logic",
+    "link": "https://glebbahmutov.com/blog/pass-the-logic/"
+  },
+  {
+    "title": "Use some ES6 in CLI apps",
+    "link": "https://glebbahmutov.com/blog/use-some-es6-in-cli-apps/"
+  },
+  {
+    "title": "1, 2, 3, linted",
+    "link": "https://glebbahmutov.com/blog/1-2-3-linted/"
+  },
+  {
+    "title": "How to setup semantic release on Circle CI",
+    "link": "https://glebbahmutov.com/blog/how-to-setup-semantic-release-on-circle-ci/"
+  },
+  {
+    "title": "The great conference tour of October 2015",
+    "link": "https://glebbahmutov.com/blog/the-great-conference-tour-of-october-2015/"
+  },
+  {
+    "title": "JavaScript to JavaScript template language",
+    "link": "https://glebbahmutov.com/blog/javascript-to-javascript-template-engine/"
+  },
+  {
+    "title": "Disable inline JavaScript for security",
+    "link": "https://glebbahmutov.com/blog/disable-inline-javascript-for-security/"
+  },
+  {
+    "title": "Patching global Node tools",
+    "link": "https://glebbahmutov.com/blog/patching-global-Node-tools/"
+  },
+  {
+    "title": "Smaller published NPM modules",
+    "link": "https://glebbahmutov.com/blog/smaller-published-NPM-modules/"
+  },
+  {
+    "title": "Stand your own crash server",
+    "link": "https://glebbahmutov.com/blog/stand-your-own-crash-server/"
+  },
+  {
+    "title": "Winning hackathons",
+    "link": "https://glebbahmutov.com/blog/winning-hackathons/"
+  },
+  {
+    "title": "Changing the function arguments trick",
+    "link": "https://glebbahmutov.com/blog/changing-the-function-arguments-trick/"
+  },
+  {
+    "title": "Angular performance testing via ports",
+    "link": "https://glebbahmutov.com/blog/angular-performance-testing-via-ports/"
+  },
+  {
+    "title": "Async Angular filter",
+    "link": "https://glebbahmutov.com/blog/async-angular-filter/"
+  },
+  {
+    "title": "Remove the boilerplate",
+    "link": "https://glebbahmutov.com/blog/remove-the-boilerplate/"
+  },
+  {
+    "title": "Dependency injection vs IO Monad example",
+    "link": "https://glebbahmutov.com/blog/di-vs-io-monad-example/"
+  },
+  {
+    "title": "Variable assignment shortcut",
+    "link": "https://glebbahmutov.com/blog/variable-assignment-shortcut/"
+  },
+  {
+    "title": "Avoid this common Angular refactoring mistake",
+    "link": "https://glebbahmutov.com/blog/avoid-this-common-angular-refactoring-mistake/"
+  },
+  {
+    "title": "Bending JavaScript rules",
+    "link": "https://glebbahmutov.com/blog/bending-javascript-rules/"
+  },
+  {
+    "title": "Unit testing Angular from Node like a boss",
+    "link": "https://glebbahmutov.com/blog/unit-testing-angular-from-node-like-a-boss/"
+  },
+  {
+    "title": "Imperative to compose example",
+    "link": "https://glebbahmutov.com/blog/imperative-to-compose-example/"
+  },
+  {
+    "title": "Angular Model intro",
+    "link": "https://glebbahmutov.com/blog/angular-model-intro/"
+  },
+  {
+    "title": "Return a promise for cleaner API",
+    "link": "https://glebbahmutov.com/blog/return-a-promise-for-cleaner-api/"
+  },
+  {
+    "title": "Express sessions",
+    "link": "https://glebbahmutov.com/blog/express-sessions/"
+  },
+  {
+    "title": "1, 2, 3, tested",
+    "link": "https://glebbahmutov.com/blog/1-2-3-tested/"
+  },
+  {
+    "title": "Perfect code, zero effort",
+    "link": "https://glebbahmutov.com/blog/perfect-code-zero-effort/"
+  },
+  {
+    "title": "Controller prototype",
+    "link": "https://glebbahmutov.com/blog/controller-prototype/"
+  },
+  {
+    "title": "ES2015 in Dev Tools console without extensions",
+    "link": "https://glebbahmutov.com/blog/es2015-in-dev-tools-console-without-extensions/"
+  },
+  {
+    "title": "You don't need global grunt",
+    "link": "https://glebbahmutov.com/blog/you-dont-need-global-grunt/"
+  },
+  {
+    "title": "I want library X in my Dev Tools console",
+    "link": "https://glebbahmutov.com/blog/i-want-library-x-in-my-dev-tools-console/"
+  },
+  {
+    "title": "Unit test Node code in 10 seconds",
+    "link": "https://glebbahmutov.com/blog/unit-test-node-code-in-10-seconds/"
+  },
+  {
+    "title": "Promisify Seneca microservice",
+    "link": "https://glebbahmutov.com/blog/promisify-seneca-microservice/"
+  },
+  {
+    "title": "Leaving examples in code",
+    "link": "https://glebbahmutov.com/blog/leaving-examples-in-code/"
+  },
+  {
+    "title": "Passing more than single value through promise chain",
+    "link": "https://glebbahmutov.com/blog/passing-more-than-single-value-through-promise-chain/"
+  },
+  {
+    "title": "Self-improving software",
+    "link": "https://glebbahmutov.com/blog/self-improving-software/"
+  },
+  {
+    "title": "User friendly API",
+    "link": "https://glebbahmutov.com/blog/user-friendly-api/"
+  },
+  {
+    "title": "Solid ExpressJS server",
+    "link": "https://glebbahmutov.com/blog/solid-expressjs-server/"
+  },
+  {
+    "title": "Starting to React",
+    "link": "https://glebbahmutov.com/blog/starting-to-react/"
+  },
+  {
+    "title": "Automatically publish to NPM",
+    "link": "https://glebbahmutov.com/blog/automatically-publish-to-npm/"
+  },
+  {
+    "title": "Rating recruiter pitches",
+    "link": "https://glebbahmutov.com/blog/rating-recruiter-pitches/"
+  },
+  {
+    "title": "Put mock data into Node require cache",
+    "link": "https://glebbahmutov.com/blog/put-mock-data-into-node-require-cache/"
+  },
+  {
+    "title": "Angular module info",
+    "link": "https://glebbahmutov.com/blog/angular-module-info/"
+  },
+  {
+    "title": "Embed version info",
+    "link": "https://glebbahmutov.com/blog/embed-version-info/"
+  },
+  {
+    "title": "Treasure your product managers",
+    "link": "https://glebbahmutov.com/blog/treasure-your-product-managers/"
+  },
+  {
+    "title": "Unapply attack",
+    "link": "https://glebbahmutov.com/blog/unapply-attack/"
+  },
+  {
+    "title": "Partial application for options object",
+    "link": "https://glebbahmutov.com/blog/partial-application-for-options-object/"
+  },
+  {
+    "title": "Deep picking",
+    "link": "https://glebbahmutov.com/blog/deep-picking/"
+  },
+  {
+    "title": "Fast legoization",
+    "link": "https://glebbahmutov.com/blog/fast-legoization/"
+  },
+  {
+    "title": "Heavy lifting",
+    "link": "https://glebbahmutov.com/blog/heavy-lifting/"
+  },
+  {
+    "title": "Unit testing CLI programs",
+    "link": "https://glebbahmutov.com/blog/unit-testing-cli-programs/"
+  },
+  {
+    "title": "Great League of Engineers",
+    "link": "https://glebbahmutov.com/blog/great-league-of-engineers/"
+  },
+  {
+    "title": "Use JavaScript functor today",
+    "link": "https://glebbahmutov.com/blog/use-javascript-functor-today/"
+  },
+  {
+    "title": "How to correctly unit test Express server",
+    "link": "https://glebbahmutov.com/blog/how-to-correctly-unit-test-express-server/"
+  },
+  {
+    "title": "Faster Node app require",
+    "link": "https://glebbahmutov.com/blog/faster-node-app-require/"
+  },
+  {
+    "title": "Pyramid of lexical scope Doom",
+    "link": "https://glebbahmutov.com/blog/pyramid-of-lexical-scope-doom/"
+  },
+  {
+    "title": "RethinkDB and BDD on CI",
+    "link": "https://glebbahmutov.com/blog/rethinkdb-and-bdd-on-ci/"
+  },
+  {
+    "title": "Nice touch, RethinkDB",
+    "link": "https://glebbahmutov.com/blog/nice-touch-rethinkdb/"
+  },
+  {
+    "title": "Less boilerplate in express app",
+    "link": "https://glebbahmutov.com/blog/less-boilerplate-in-express-app/"
+  },
+  {
+    "title": "Deployed commit",
+    "link": "https://glebbahmutov.com/blog/deployed-commit/"
+  },
+  {
+    "title": "Angular vs Backbone vs Ember",
+    "link": "https://glebbahmutov.com/blog/angular-vs-backbone-vs-ember/"
+  },
+  {
+    "title": "Conference talk proposals",
+    "link": "https://glebbahmutov.com/blog/conference-talk-proposals/"
+  },
+  {
+    "title": "Run Angular in Web Worker",
+    "link": "https://glebbahmutov.com/blog/run-angular-in-web-worker/"
+  },
+  {
+    "title": "Web working like a boss",
+    "link": "https://glebbahmutov.com/blog/web-working-like-a-boss/"
+  },
+  {
+    "title": "Angular plus React equals Speed revisited",
+    "link": "https://glebbahmutov.com/blog/angular-plus-react-equals-speed-revisited/"
+  },
+  {
+    "title": "Remove boilerplate from promise chains",
+    "link": "https://glebbahmutov.com/blog/remove-boilerplate-from-promise-chains/"
+  },
+  {
+    "title": "Playing with PouchDB",
+    "link": "https://glebbahmutov.com/blog/playing-with-pouchdb/"
+  },
+  {
+    "title": "Getting up to JavaScript speed",
+    "link": "https://glebbahmutov.com/blog/getting-up-to-javascript-speed/"
+  },
+  {
+    "title": "Using grunt tasks from gulp",
+    "link": "https://glebbahmutov.com/blog/using-grunt-tasks-from-gulp/"
+  },
+  {
+    "title": "Separate model from view in Angular",
+    "link": "https://glebbahmutov.com/blog/separate-model-from-view-in-angular/"
+  },
+  {
+    "title": "After upgrading to Angular 1.3",
+    "link": "https://glebbahmutov.com/blog/after-upgrading-to-angular-1.3/"
+  },
+  {
+    "title": "Setup hosted RethinkDB",
+    "link": "https://glebbahmutov.com/blog/setup-hosted-rethinkdb/"
+  },
+  {
+    "title": "Try RethinkDB",
+    "link": "https://glebbahmutov.com/blog/try-rethinkdb/"
+  },
+  {
+    "title": "What is the difference between streams and functional reactive programming?",
+    "link": "https://glebbahmutov.com/blog/what-is-the-difference-between-streams-and-functional-reactive-programming/"
+  },
+  {
+    "title": "Passing multiple arguments in promises",
+    "link": "https://glebbahmutov.com/blog/passing-multiple-arguments-in-promises/"
+  },
+  {
+    "title": "Upgrade Angular from 1.2 to 1.3",
+    "link": "https://glebbahmutov.com/blog/upgrade-angular-from-1.2-to-1.3/"
+  },
+  {
+    "title": "Binding vs partial application",
+    "link": "https://glebbahmutov.com/blog/binding-vs-partial-application/"
+  },
+  {
+    "title": "Overcoming functional programming objections",
+    "link": "https://glebbahmutov.com/blog/overcoming-functional-programming-objections/"
+  },
+  {
+    "title": "Reduce reigns supreme",
+    "link": "https://glebbahmutov.com/blog/reduce-reigns-supreme/"
+  },
+  {
+    "title": "Review of \"Principles of Object-Oriented JavaScript\" by Nicholas Zakas",
+    "link": "https://glebbahmutov.com/blog/review-principles-of-oo-javascript/"
+  },
+  {
+    "title": "Configuring AngularJS 3rd party module",
+    "link": "https://glebbahmutov.com/blog/configuring-angular-3rd-party-module/"
+  },
+  {
+    "title": "Performance of v8 generators vs promises",
+    "link": "https://glebbahmutov.com/blog/performance-of-v8-generators-vs-promises/"
+  },
+  {
+    "title": "Factorial using promises",
+    "link": "https://glebbahmutov.com/blog/factorial-using-promises/"
+  },
+  {
+    "title": "AngularJS 2 intro",
+    "link": "https://glebbahmutov.com/blog/angularjs2-intro/"
+  },
+  {
+    "title": "Playing with ES6 code",
+    "link": "https://glebbahmutov.com/blog/playing-with-es6-code/"
+  },
+  {
+    "title": "The awful inconsistency of Firebase API",
+    "link": "https://glebbahmutov.com/blog/the-awful-inconsistency-of-firebase-api/"
+  },
+  {
+    "title": "Starting promises",
+    "link": "https://glebbahmutov.com/blog/starting-promises/"
+  },
+  {
+    "title": "Too much point-free",
+    "link": "https://glebbahmutov.com/blog/too-much-point-free/"
+  },
+  {
+    "title": "Testing AngularJS application at the model level using iframe API",
+    "link": "https://glebbahmutov.com/blog/model-level-feature-testing-angular-application-via-iframe-api/"
+  },
+  {
+    "title": "Better short JavaScript demos",
+    "link": "https://glebbahmutov.com/blog/better-short-javascript-demos/"
+  },
+  {
+    "title": "Search across my blog posts and github projects",
+    "link": "https://glebbahmutov.com/blog/custom-search-for-my-projects-and-blog-posts/"
+  },
+  {
+    "title": "Abandoning return values",
+    "link": "https://glebbahmutov.com/blog/abandoning-return-values/"
+  },
+  {
+    "title": "Promisify event emitter",
+    "link": "https://glebbahmutov.com/blog/promisify-event-emitter/"
+  },
+  {
+    "title": "Was NodeJS module used",
+    "link": "https://glebbahmutov.com/blog/was-nodejs-module-used/"
+  },
+  {
+    "title": "Run N promises in parallel",
+    "link": "https://glebbahmutov.com/blog/run-n-promises-in-parallel/"
+  },
+  {
+    "title": "Passing options through script tags",
+    "link": "https://glebbahmutov.com/blog/passing-options-through-script-tag/"
+  },
+  {
+    "title": "Counting predicates",
+    "link": "https://glebbahmutov.com/blog/counting-predicates/"
+  },
+  {
+    "title": "Optimizing nth",
+    "link": "https://glebbahmutov.com/blog/optimizing-nth/"
+  },
+  {
+    "title": "Adapted point-free callbacks",
+    "link": "https://glebbahmutov.com/blog/adapted-point-free-callbacks/"
+  },
+  {
+    "title": "Hacking Node require",
+    "link": "https://glebbahmutov.com/blog/hacking-node-require/"
+  },
+  {
+    "title": "Essence of functional programming",
+    "link": "https://glebbahmutov.com/blog/essence-of-functional-programming/"
+  },
+  {
+    "title": "Robustness testing using proxies",
+    "link": "https://glebbahmutov.com/blog/robustness-testing-using-proxies/"
+  },
+  {
+    "title": "AngularJS performance lessons",
+    "link": "https://glebbahmutov.com/blog/angularjs-performance-lessons/"
+  },
+  {
+    "title": "OO vs FP console log example",
+    "link": "https://glebbahmutov.com/blog/oo-vs-fp-log-example/"
+  },
+  {
+    "title": "Performance profiling using DevTools code snippets.",
+    "link": "https://glebbahmutov.com/blog/performance-profiling-using-devtools-code-snippets/"
+  },
+  {
+    "title": "Separate work from control flow using functional programming",
+    "link": "https://glebbahmutov.com/blog/separate-work-from-control-flow-using-functional-programming/"
+  },
+  {
+    "title": "Code coverage proxy",
+    "link": "https://glebbahmutov.com/blog/code-coverage-proxy/"
+  },
+  {
+    "title": "Code coverage by commit",
+    "link": "https://glebbahmutov.com/blog/code-coverage-by-commit/"
+  },
+  {
+    "title": "Programming without For loops",
+    "link": "https://glebbahmutov.com/blog/programming-without-for-loops/"
+  },
+  {
+    "title": "Painless modular development proposal",
+    "link": "https://glebbahmutov.com/blog/painless-modular-development-proposal/"
+  },
+  {
+    "title": "Drive wedge into your Angular application",
+    "link": "https://glebbahmutov.com/blog/drive-wedge-into-your-angular-app/"
+  },
+  {
+    "title": "Measure space allocation",
+    "link": "https://glebbahmutov.com/blog/measure-space-allocation/"
+  },
+  {
+    "title": "Faking lexical scope",
+    "link": "https://glebbahmutov.com/blog/faking-lexical-scope/"
+  },
+  {
+    "title": "Tap into promise chains for debugging",
+    "link": "https://glebbahmutov.com/blog/tap-into-promise-chains-for-debugging/"
+  },
+  {
+    "title": "My story presentations",
+    "link": "https://glebbahmutov.com/blog/my-story-presentations/"
+  },
+  {
+    "title": "Measuring semver adherence",
+    "link": "https://glebbahmutov.com/blog/measuring-semver-adherence/"
+  },
+  {
+    "title": "Immutable JavaScript example",
+    "link": "https://glebbahmutov.com/blog/immutable-javascript-example/"
+  },
+  {
+    "title": "Point-free programming is not pointless.",
+    "link": "https://glebbahmutov.com/blog/point-free-programming-is-not-pointless/"
+  },
+  {
+    "title": "Appliers",
+    "link": "https://glebbahmutov.com/blog/appliers/"
+  },
+  {
+    "title": "Introducing d3-panel",
+    "link": "https://glebbahmutov.com/blog/introducing-d3-panel/"
+  },
+  {
+    "title": "Sharing data between controller and link functions in Angular directive",
+    "link": "https://glebbahmutov.com/blog/sharing-data-between-controller-and-link-without-scope/"
+  },
+  {
+    "title": "Combine promises with Maybe functors",
+    "link": "https://glebbahmutov.com/blog/combine-promises-with-maybe-functors/"
+  },
+  {
+    "title": "Test if a function is pure",
+    "link": "https://glebbahmutov.com/blog/test-if-a-function-is-pure/"
+  },
+  {
+    "title": "Avoid side effects with immutable data structures",
+    "link": "https://glebbahmutov.com/blog/avoid-side-effects-with-immutable-data-structures/"
+  },
+  {
+    "title": "When in doubt, return a promise. Plus promises are functors.",
+    "link": "https://glebbahmutov.com/blog/when-in-doubt-return-a-promise/"
+  },
+  {
+    "title": "Local Angular scopes",
+    "link": "https://glebbahmutov.com/blog/local-angular-scopes/"
+  },
+  {
+    "title": "Do not break dependant modules.",
+    "link": "https://glebbahmutov.com/blog/do-not-break-dependant-modules/"
+  },
+  {
+    "title": "Run Angular digest cycle in web worker",
+    "link": "https://glebbahmutov.com/blog/run-angular-digest-cycle-in-web-worker/"
+  },
+  {
+    "title": "Improving Angular web app performance example.",
+    "link": "https://glebbahmutov.com/blog/improving-angular-web-app-performance-example/"
+  },
+  {
+    "title": "Chrome DevTools Code Snippets",
+    "link": "https://glebbahmutov.com/blog/chrome-dev-tools-code-snippets/"
+  },
+  {
+    "title": "Object of promises in Angular",
+    "link": "https://glebbahmutov.com/blog/object-of-promises-in-angular/"
+  },
+  {
+    "title": "Delayed AngularJs filter initialization.",
+    "link": "https://glebbahmutov.com/blog/delayed-angular-filter-initialization/"
+  },
+  {
+    "title": "Building runtime tree of Angular modules",
+    "link": "https://glebbahmutov.com/blog/building-runtime-tree-of-angular-modules/"
+  },
+  {
+    "title": "Testing AngularJS under Node",
+    "link": "https://glebbahmutov.com/blog/testing-angularjs-under-node/"
+  },
+  {
+    "title": "Avoiding silent Angular failures",
+    "link": "https://glebbahmutov.com/blog/avoiding-silent-angular-failures/"
+  },
+  {
+    "title": "Server side vanilla Angular rendering under Node",
+    "link": "https://glebbahmutov.com/blog/server-side-vanilla-angular-rendering-under-node/"
+  },
+  {
+    "title": "Configurable function pattern",
+    "link": "https://glebbahmutov.com/blog/configurable-function-pattern/"
+  },
+  {
+    "title": "Selective partial application",
+    "link": "https://glebbahmutov.com/blog/selective-partial-application/"
+  },
+  {
+    "title": "Testing Angular async stuff",
+    "link": "https://glebbahmutov.com/blog/testing-angular-async-stuff/"
+  },
+  {
+    "title": "1 year of blogging",
+    "link": "https://glebbahmutov.com/blog/1-year-of-blogging/"
+  },
+  {
+    "title": "Debugging minified JavaScript code without source maps",
+    "link": "https://glebbahmutov.com/blog/debugging-minified-code-without-source-map/"
+  },
+  {
+    "title": "Useful module pattern",
+    "link": "https://glebbahmutov.com/blog/useful-module-pattern/"
+  },
+  {
+    "title": "Debugging Karma Unit Tests",
+    "link": "https://glebbahmutov.com/blog/debugging-karma-unit-tests/"
+  },
+  {
+    "title": "Testing async lazy assertion",
+    "link": "https://glebbahmutov.com/blog/testing-async-lazy-assertion/"
+  },
+  {
+    "title": "Good examples",
+    "link": "https://glebbahmutov.com/blog/good-examples/"
+  },
+  {
+    "title": "Code quality as a service",
+    "link": "https://glebbahmutov.com/blog/code-quality-as-a-service/"
+  },
+  {
+    "title": "Detecting function optimizations in V8",
+    "link": "https://glebbahmutov.com/blog/detecting-function-optimizations-in-v8/"
+  },
+  {
+    "title": "Object iterators",
+    "link": "https://glebbahmutov.com/blog/object-iterators/"
+  },
+  {
+    "title": "Readable conditions using check-types.js",
+    "link": "https://glebbahmutov.com/blog/readable-conditions-using-check-types/"
+  },
+  {
+    "title": "Tightening project with grunt build",
+    "link": "https://glebbahmutov.com/blog/tightening-project-with-grunt-build/"
+  },
+  {
+    "title": "Functional JavaScript interview question",
+    "link": "https://glebbahmutov.com/blog/functional-js-interview-question/"
+  },
+  {
+    "title": "Review of \"Everyday Calculus\" by Oscar Fernandez",
+    "link": "https://glebbahmutov.com/blog/review-everyday-calculus/"
+  },
+  {
+    "title": "Test in production",
+    "link": "https://glebbahmutov.com/blog/test-in-production/"
+  },
+  {
+    "title": "Lodash to Ramda example",
+    "link": "https://glebbahmutov.com/blog/lodash-to-ramda-example/"
+  },
+  {
+    "title": "Review of \"Stuff matters\" by Mark Miodownik",
+    "link": "https://glebbahmutov.com/blog/review-stuff-matters/"
+  },
+  {
+    "title": "Test mole",
+    "link": "https://glebbahmutov.com/blog/test-mole/"
+  },
+  {
+    "title": "Open source software",
+    "link": "https://glebbahmutov.com/blog/open-source-software/"
+  },
+  {
+    "title": "Review of \"The Grapes of Math\" by Alex Bellos",
+    "link": "https://glebbahmutov.com/blog/review-the-grapes-of-math/"
+  },
+  {
+    "title": "Async using generators",
+    "link": "https://glebbahmutov.com/blog/async-using-generators/"
+  },
+  {
+    "title": "Promise paths",
+    "link": "https://glebbahmutov.com/blog/promise-paths/"
+  },
+  {
+    "title": "Refactoring OR",
+    "link": "https://glebbahmutov.com/blog/refactoring-or/"
+  },
+  {
+    "title": "Agile software quality",
+    "link": "https://glebbahmutov.com/blog/agile-software-quality/"
+  },
+  {
+    "title": "Picking JavaScript testing framework",
+    "link": "https://glebbahmutov.com/blog/picking-javascript-testing-framework/"
+  },
+  {
+    "title": "Testing without matchers",
+    "link": "https://glebbahmutov.com/blog/testing-without-matchers/"
+  },
+  {
+    "title": "Fluent getters and setters",
+    "link": "https://glebbahmutov.com/blog/fluent-getters-setters/"
+  },
+  {
+    "title": "Pick latest promise",
+    "link": "https://glebbahmutov.com/blog/pick-latest-promise/"
+  },
+  {
+    "title": "Review \"How Not to Be Wrong\" by Jordan Ellenberg",
+    "link": "https://glebbahmutov.com/blog/review-how-not-to-be-wrong/"
+  },
+  {
+    "title": "Journey from procedural to reactive JavaScript with stops",
+    "link": "https://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/"
+  },
+  {
+    "title": "Randomize file order when testing",
+    "link": "https://glebbahmutov.com/blog/randomize-file-order-in-tests/"
+  },
+  {
+    "title": "Why upgrade dependencies?",
+    "link": "https://glebbahmutov.com/blog/why-upgrade-dependencies/"
+  },
+  {
+    "title": "Helpful assertions",
+    "link": "https://glebbahmutov.com/blog/helpful-assertions/"
+  },
+  {
+    "title": "A second taste of nodejs generators",
+    "link": "https://glebbahmutov.com/blog/a-second-taste-of-nodejs-generators/"
+  },
+  {
+    "title": "Using Node ES6 today",
+    "link": "https://glebbahmutov.com/blog/using-node-es6-today/"
+  },
+  {
+    "title": "JavaScript closures",
+    "link": "https://glebbahmutov.com/blog/javascript-closures/"
+  },
+  {
+    "title": "Too much curry",
+    "link": "https://glebbahmutov.com/blog/too-much-curry/"
+  },
+  {
+    "title": "Angular $q promises with timeouts",
+    "link": "https://glebbahmutov.com/blog/angular-q-promises-with-timeouts/"
+  },
+  {
+    "title": "End to end unit testing",
+    "link": "https://glebbahmutov.com/blog/end-to-end-unit-testing/"
+  },
+  {
+    "title": "Promises with timeouts",
+    "link": "https://glebbahmutov.com/blog/promises-with-timeouts/"
+  },
+  {
+    "title": "Make serialized objects smarter using prototype",
+    "link": "https://glebbahmutov.com/blog/make-serialized-objects-smarter-using-prototype/"
+  },
+  {
+    "title": "Working around the keyword new in JavaScript",
+    "link": "https://glebbahmutov.com/blog/work-around-the-keyword-new-in-javascript/"
+  },
+  {
+    "title": "Put callback first for elegance",
+    "link": "https://glebbahmutov.com/blog/put-callback-first-for-elegance/"
+  },
+  {
+    "title": "A taste of nodejs generators",
+    "link": "https://glebbahmutov.com/blog/a-taste-of-nodejs-generators/"
+  },
+  {
+    "title": "Lazy and async assertions",
+    "link": "https://glebbahmutov.com/blog/lazy-and-async-assertions/"
+  },
+  {
+    "title": "Jade templates for Angular directives",
+    "link": "https://glebbahmutov.com/blog/jade-templates-for-angular-directives/"
+  },
+  {
+    "title": "Angular from browser console",
+    "link": "https://glebbahmutov.com/blog/angular-from-browser-console/"
+  },
+  {
+    "title": "Inject valid constants into Angular",
+    "link": "https://glebbahmutov.com/blog/inject-valid-constants-into-angular/"
+  },
+  {
+    "title": "Keeping async data non-shared in singletons",
+    "link": "https://glebbahmutov.com/blog/keeping-async-data-non-shared-in-singletons/"
+  },
+  {
+    "title": "No binding necessary",
+    "link": "https://glebbahmutov.com/blog/no-binding-necessary/"
+  },
+  {
+    "title": "JavaScript stack size",
+    "link": "https://glebbahmutov.com/blog/javascript-stack-size/"
+  },
+  {
+    "title": "Recursive Angular Directive",
+    "link": "https://glebbahmutov.com/blog/recursive-angular-directive/"
+  },
+  {
+    "title": "AngularJS $parse hacks",
+    "link": "https://glebbahmutov.com/blog/angularjs-parse-hacks/"
+  },
+  {
+    "title": "Assertions",
+    "link": "https://glebbahmutov.com/blog/assertions/"
+  },
+  {
+    "title": "Simplicity in resource generation using promises",
+    "link": "https://glebbahmutov.com/blog/simplicity-in-resource-generation-using-promises/"
+  },
+  {
+    "title": "Partial argument binding with heroin",
+    "link": "https://glebbahmutov.com/blog/partial-argument-binding-with-heroin/"
+  },
+  {
+    "title": "Why Node is different",
+    "link": "https://glebbahmutov.com/blog/why-node-is-different/"
+  },
+  {
+    "title": "Partial dependency injection",
+    "link": "https://glebbahmutov.com/blog/partial-dependency-injection/"
+  },
+  {
+    "title": "Why promises need to be done",
+    "link": "https://glebbahmutov.com/blog/why-promises-need-to-be-done/"
+  },
+  {
+    "title": "Functional pipeline",
+    "link": "https://glebbahmutov.com/blog/functional-pipeline/"
+  },
+  {
+    "title": "Review of \"Data Visualization with D3.js Cookbook\" by Nick Qi Zhu",
+    "link": "https://glebbahmutov.com/blog/review-data-visualization-with-d3js-cookbook/"
+  },
+  {
+    "title": "Unit testing promises",
+    "link": "https://glebbahmutov.com/blog/unit-testing-promises/"
+  },
+  {
+    "title": "Defensive distance",
+    "link": "https://glebbahmutov.com/blog/defensive-distance/"
+  },
+  {
+    "title": "Linking promises",
+    "link": "https://glebbahmutov.com/blog/linking-promises/"
+  },
+  {
+    "title": "Unit testing Angular load using Node",
+    "link": "https://glebbahmutov.com/blog/unit-testing-angular-load-using-node/"
+  },
+  {
+    "title": "Stop Angular overrides",
+    "link": "https://glebbahmutov.com/blog/stop-angular-overrides/"
+  },
+  {
+    "title": "Dual grunt tasks",
+    "link": "https://glebbahmutov.com/blog/dual-grunt-tasks/"
+  },
+  {
+    "title": "2 shell search commands",
+    "link": "https://glebbahmutov.com/blog/2-shell-search-commands/"
+  },
+  {
+    "title": "Spying on methods",
+    "link": "https://glebbahmutov.com/blog/spying-on-methods/"
+  },
+  {
+    "title": "JavaScript books",
+    "link": "https://glebbahmutov.com/blog/javascript-books/"
+  },
+  {
+    "title": "Unit testing D3 code without browser",
+    "link": "https://glebbahmutov.com/blog/unit-testing-d3-code-without-browser/"
+  },
+  {
+    "title": "Cloning 2048",
+    "link": "https://glebbahmutov.com/blog/cloning-2048/"
+  },
+  {
+    "title": "Defensive coding examples",
+    "link": "https://glebbahmutov.com/blog/defensive-coding-examples/"
+  },
+  {
+    "title": "Catch AngularJs minification errors",
+    "link": "https://glebbahmutov.com/blog/catch-angular-minification-errors/"
+  },
+  {
+    "title": "Why function bind matters little in AngularJs",
+    "link": "https://glebbahmutov.com/blog/why-function-bind-matters-little-in-angular/"
+  },
+  {
+    "title": "Presentation slides using HTML and CSS",
+    "link": "https://glebbahmutov.com/blog/presentation-slides-using-html-css/"
+  },
+  {
+    "title": "CDN with local fallback",
+    "link": "https://glebbahmutov.com/blog/cdn-with-local-fallback/"
+  },
+  {
+    "title": "Accurate coverage number",
+    "link": "https://glebbahmutov.com/blog/accurate-coverage-number/"
+  },
+  {
+    "title": "Sweet naked objects",
+    "link": "https://glebbahmutov.com/blog/sweet-naked-objects/"
+  },
+  {
+    "title": "Infinite slow fake data on scroll using AngularJs",
+    "link": "https://glebbahmutov.com/blog/infinite-slow-fake-data-using-angular/"
+  },
+  {
+    "title": "Catch all errors in Angular app",
+    "link": "https://glebbahmutov.com/blog/catch-all-errors-in-angular-app/"
+  },
+  {
+    "title": "Server-side constants injection into Angular modules",
+    "link": "https://glebbahmutov.com/blog/server-side-constants-injection-into-angular-modules/"
+  },
+  {
+    "title": "Code coverage via GT and Coveralls",
+    "link": "https://glebbahmutov.com/blog/code-coverage-via-gt-and-coveralls/"
+  },
+  {
+    "title": "Chaining promises",
+    "link": "https://glebbahmutov.com/blog/chaining-promises/"
+  },
+  {
+    "title": "Homebrew CLI testing",
+    "link": "https://glebbahmutov.com/blog/homebrew-cli-testing/"
+  },
+  {
+    "title": "Reading books using epics",
+    "link": "https://glebbahmutov.com/blog/reading-books-using-epics/"
+  },
+  {
+    "title": "Simplify filtering conditions",
+    "link": "https://glebbahmutov.com/blog/simplify-filtering-conditions/"
+  },
+  {
+    "title": "The most boring generator function's caller",
+    "link": "https://glebbahmutov.com/blog/most-boring-generators-caller/"
+  },
+  {
+    "title": "Linting JavaScript inside HTML",
+    "link": "https://glebbahmutov.com/blog/linting-js-inside-html/"
+  },
+  {
+    "title": "Git branches with descriptions",
+    "link": "https://glebbahmutov.com/blog/git-branches-with-descriptions/"
+  },
+  {
+    "title": "Local Angular development",
+    "link": "https://glebbahmutov.com/blog/local-angular-development/"
+  },
+  {
+    "title": "Unit testing blog posts",
+    "link": "https://glebbahmutov.com/blog/unit-testing-blog-posts/"
+  },
+  {
+    "title": "JavaScript does not annoy me anymore",
+    "link": "https://glebbahmutov.com/blog/javascript-does-not-annoy-me-anymore/"
+  },
+  {
+    "title": "Angular Templates",
+    "link": "https://glebbahmutov.com/blog/angular-templates/"
+  },
+  {
+    "title": "Error handling in promises",
+    "link": "https://glebbahmutov.com/blog/error-handling-in-promises/"
+  },
+  {
+    "title": "Testing Connect middleware",
+    "link": "https://glebbahmutov.com/blog/testing-connect-middleware/"
+  },
+  {
+    "title": "Review of \"The Smashing Book 4\"",
+    "link": "https://glebbahmutov.com/blog/review-smashing-book-4/"
+  },
+  {
+    "title": "Give browser a chance",
+    "link": "https://glebbahmutov.com/blog/give-browser-a-chance/"
+  },
+  {
+    "title": "Use Unix line endings",
+    "link": "https://glebbahmutov.com/blog/use-unix-line-endings/"
+  },
+  {
+    "title": "Hooking into Node loader for fun and profit",
+    "link": "https://glebbahmutov.com/blog/hooking-into-node-loader-for-fun-and-profit/"
+  },
+  {
+    "title": "Developer value",
+    "link": "https://glebbahmutov.com/blog/developer-value/"
+  },
+  {
+    "title": "Functional decorators without coupling",
+    "link": "https://glebbahmutov.com/blog/function-decorators/"
+  },
+  {
+    "title": "AngularJs inside Jade templates",
+    "link": "https://glebbahmutov.com/blog/angularjs-inside-jade-templates/"
+  },
+  {
+    "title": "Know unknown unknowns with Sentry",
+    "link": "https://glebbahmutov.com/blog/know-unknown-unknowns-with-sentry/"
+  },
+  {
+    "title": "Shorten promises (advanced)",
+    "link": "https://glebbahmutov.com/blog/shorten-promises-advanced/"
+  },
+  {
+    "title": "Shorten promises",
+    "link": "https://glebbahmutov.com/blog/shorten-promises/"
+  },
+  {
+    "title": "Missing feature in every project planning app",
+    "link": "https://glebbahmutov.com/blog/missing-feature-in-every-project-planning-app/"
+  },
+  {
+    "title": "Fast prototyping using Restangular and Json-server",
+    "link": "https://glebbahmutov.com/blog/fast-prototyping-using-restangular-and-json-server/"
+  },
+  {
+    "title": "Debugging JS minification bug",
+    "link": "https://glebbahmutov.com/blog/debugging-js-minification-bug/"
+  },
+  {
+    "title": "Paranoid coding",
+    "link": "https://glebbahmutov.com/blog/paranoid-coding/"
+  },
+  {
+    "title": "Review of \"Thinking, fast and slow\"",
+    "link": "https://glebbahmutov.com/blog/review-thinking-fast-and-slow/"
+  },
+  {
+    "title": "Review of \"Node.js in Action\"",
+    "link": "https://glebbahmutov.com/blog/review-nodejs-in-action/"
+  },
+  {
+    "title": "Aged to Perfection",
+    "link": "https://glebbahmutov.com/blog/aged-to-perfection/"
+  },
+  {
+    "title": "Product, process, people",
+    "link": "https://glebbahmutov.com/blog/products-processes-people/"
+  },
+  {
+    "title": "Review of \"The Phantom Tollbooth\"",
+    "link": "https://glebbahmutov.com/blog/review-phantom-tollbooth/"
+  },
+  {
+    "title": "Deploy Node app to Heroku",
+    "link": "https://glebbahmutov.com/blog/deploy-node-app-to-heroku/"
+  },
+  {
+    "title": "Review of \"High Performance Browser Networking\"",
+    "link": "https://glebbahmutov.com/blog/review-high-performance-browser-networking/"
+  },
+  {
+    "title": "High MPG Code Coverage",
+    "link": "https://glebbahmutov.com/blog/high-mpg-code-coverage/"
+  },
+  {
+    "title": "High MPG Unit Tests",
+    "link": "https://glebbahmutov.com/blog/high-mpg-unit-tests/"
+  },
+  {
+    "title": "Concurrency can bite you even in Node",
+    "link": "https://glebbahmutov.com/blog/concurrency-can-bite-you-even-in-node/"
+  },
+  {
+    "title": "Large projects are never finished",
+    "link": "https://glebbahmutov.com/blog/large-projects-are-never-finished/"
+  },
+  {
+    "title": "Review of \"Clean code\" by Robert Martin",
+    "link": "https://glebbahmutov.com/blog/review-clean-code/"
+  },
+  {
+    "title": "My favorite functional adaptors",
+    "link": "https://glebbahmutov.com/blog/my-favorite-functional-adaptors/"
+  },
+  {
+    "title": "Tightening Node Project",
+    "link": "https://glebbahmutov.com/blog/tightening-node-project/"
+  },
+  {
+    "title": "Focus on specific Jasmine suite in Karma",
+    "link": "https://glebbahmutov.com/blog/focus-on-karma-test/"
+  },
+  {
+    "title": "Run QUnit module setup once",
+    "link": "https://glebbahmutov.com/blog/run-qunit-module-setup-once/"
+  },
+  {
+    "title": "Testing async module setup",
+    "link": "https://glebbahmutov.com/blog/testing-async-module-setup/"
+  },
+  {
+    "title": "Iterator callbacks",
+    "link": "https://glebbahmutov.com/blog/iterator-callbacks/"
+  },
+  {
+    "title": "I love Markdown",
+    "link": "https://glebbahmutov.com/blog/i-love-markdown/"
+  },
+  {
+    "title": "Review of \"The Signal and the Noise\" by Nate Silver",
+    "link": "https://glebbahmutov.com/blog/signal-and-noise-review/"
+  },
+  {
+    "title": "Tightening Jshint",
+    "link": "https://glebbahmutov.com/blog/tightening-jshint/"
+  },
+  {
+    "title": "AngularJs and JavaScript nuggets",
+    "link": "https://glebbahmutov.com/blog/angularjs-and-javascript-nuggets/"
+  },
+  {
+    "title": "Review of \"Antifragile\" by Nassim Nicholas Taleb",
+    "link": "https://glebbahmutov.com/blog/review-of-antifragile-by-nassim-nicholas-taleb/"
+  },
+  {
+    "title": "Training new developers like you were a loan shark",
+    "link": "https://glebbahmutov.com/blog/training-new-developers-like-you-were-a-loan-shark/"
+  },
+  {
+    "title": "Really painless modular development",
+    "link": "https://glebbahmutov.com/blog/really-painless-modular-development/"
+  },
+  {
+    "title": "Modular development using Nodejs",
+    "link": "https://glebbahmutov.com/blog/modular-development-using-nodejs/"
+  },
+  {
+    "title": "Never break remote master (again)",
+    "link": "https://glebbahmutov.com/blog/never-break-remote-master-again/"
+  },
+  {
+    "title": "Review of \"Year without Pants\" by Scott Berkun",
+    "link": "https://glebbahmutov.com/blog/year-without-pants-review/"
+  },
+  {
+    "title": "who.influences(me)",
+    "link": "https://glebbahmutov.com/blog/dev-influence/"
+  },
+  {
+    "title": "Never break master by accident",
+    "link": "https://glebbahmutov.com/blog/never-break-master-by-accident/"
+  },
+  {
+    "title": "Status dashboard from Markdown",
+    "link": "https://glebbahmutov.com/blog/status-dashboard-from-markdown/"
+  },
+  {
+    "title": "Project status badges",
+    "link": "https://glebbahmutov.com/blog/project-status-badges/"
+  },
+  {
+    "title": "REST API testing made easy",
+    "link": "https://glebbahmutov.com/blog/rest-api-testing-made-easy/"
+  },
+  {
+    "title": "JavaScript and AngularJs learning resources",
+    "link": "https://glebbahmutov.com/blog/javascript-and-angularjs-learning-resources/"
+  },
+  {
+    "title": "Transition from Windows to Mac",
+    "link": "https://glebbahmutov.com/blog/transition-from-windows-to-mac/"
+  },
+  {
+    "title": "Check dependencies in grunt by default",
+    "link": "https://glebbahmutov.com/blog/check-dependencies-in-grunt-by-default/"
+  },
+  {
+    "title": "Git aliases",
+    "link": "https://glebbahmutov.com/blog/git-aliases/"
+  },
+  {
+    "title": "Simplify your life with JShint",
+    "link": "https://glebbahmutov.com/blog/simplify-your-life-with-jshint/"
+  }
+]

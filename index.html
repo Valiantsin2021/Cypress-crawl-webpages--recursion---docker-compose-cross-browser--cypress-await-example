@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic HTML from JSON</title>
+  <style>
+    /* Define your CSS styles here */
+    .profile {
+      display:block;
+      background-color: rgb(253, 253, 253);
+      border: 1px solid #1b1a1a;
+      padding: 10px;
+      margin: 10px;
+      height: auto;
+      position: relative;
+    }
+    .main {
+      background-color: rgb(226, 241, 241);
+      padding: 10px;
+      margin: 10px;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="main"></div>
+  <script>
+    const main = document.querySelector('.main');
+
+    window.addEventListener('DOMContentLoaded', function () {
+      // Fetch the JSON data
+      fetch('./4kfilms.json')
+        .then(response => response.json())
+        .then(info => {
+          // Map the JSON data to HTML elements
+          const displayInfo = info.map(function (profile) {
+            return `<div class="profile">
+              <img src="${profile.image}" alt="Image">
+              <div class="profile">
+              <a href="${profile.link}" target="_blank">${profile.title}</a>
+            </div>
+            </div>`;
+          });
+
+          // Join the HTML elements and set them as innerHTML of the main container
+          main.innerHTML = displayInfo.join('');
+        })
+        .catch(error => {
+          console.error('Error fetching or parsing JSON:', error);
+        });
+    });
+  </script>
+</body>
+</html>

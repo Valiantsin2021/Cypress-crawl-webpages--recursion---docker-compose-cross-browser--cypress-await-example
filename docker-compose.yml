@@ -1,0 +1,30 @@
+version: "3.8"
+
+services:
+  chrome:
+    image: cypress-swarm
+    build: 
+      context: .
+      dockerfile: ./Dockerfile-swarm
+    command: "-b chrome"
+    # volumes:
+    #   - ./artifacts/chrome:/usr/src/app/links.json
+    #   - ./artifacts/chrome:/usr/src/app/cities.json
+  edge:
+    image: cypress-swarm
+    build:
+        context: .
+        dockerfile: ./Dockerfile-swarm
+    command: "-b edge"
+    # volumes:
+    #   - ./artifacts/edge:/usr/src/app/links.json
+    #   - ./artifacts/edge:/usr/src/app/cities.json
+  firefox:
+    image: cypress-swarm
+    build:
+        context: .
+        dockerfile: ./Dockerfile-swarm
+    command: "-b firefox"
+    # volumes:
+    #   - ./artifacts/firefox:/usr/src/app/links.json
+    #   - ./artifacts/firefox:/usr/src/app/cities.json

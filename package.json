@@ -1,0 +1,43 @@
+{
+  "name": "weather-scrub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "npm install -D npm-check-updates && npx npm-check-updates -u",
+    "test": "npx cypress run --env allure=true",
+    "clean:folders": "rimraf allure-report/* && rimraf allure-results/*",
+    "pretest": "npm run clean:folders",
+    "posttest": "allure generate allure-results --clean -o allure-report",
+    "format": "prettier --write .",
+    "lint": "eslint ./cypress/e2e/*.js"
+  },
+  "pre-commit": [
+    "format",
+    "lint"
+  ],
+  "keywords": [],
+  "author": "Valentin",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.38.5",
+    "allure-commandline": "^2.22.0",
+    "cy-spok": "^1.6.1",
+    "cypress": "12.4.0",
+    "cypress-await": "^1.4.3",
+    "cypress-data-session": "^2.7.0",
+    "cypress-map": "^1.19.1",
+    "cypress-recurse": "^1.31.2",
+    "eslint": "^8.40.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-cypress": "^2.13.3",
+    "eslint-plugin-prettier": "^4.2.1",
+    "npm-check-updates": "^16.10.12",
+    "prettier": "2.8.8",
+    "rimraf": "^3.0"
+  },
+  "dependencies": {
+    "pre-commit": "^1.2.2"
+  }
+}
