@@ -7,9 +7,9 @@
 // commands please read more here:
 // https://on.cypress.io/custom-commands
 // ***********************************************
-import 'cypress-map'
-import 'cypress-data-session'
 import 'cy-spok'
+import 'cypress-data-session'
+import 'cypress-map'
 import 'cypress-recurse'
 //
 // -- This is a parent command --

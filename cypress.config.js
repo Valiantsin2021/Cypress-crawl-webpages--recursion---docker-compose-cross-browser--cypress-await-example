@@ -22,6 +22,7 @@ module.exports = defineConfig({
   // fixturesFolder: false,
   // isTextTerminal: true,
   chromeWebSecurity: false,
+  experimentalMemoryManagement: true,
   viewportWidth: 1280,
   viewportHeight: 800,
   waitForAnimation: true,
